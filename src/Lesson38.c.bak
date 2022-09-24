@@ -752,7 +752,6 @@ BOOL RegisterWindowClass (Application* application)						// Register A Window Cl
 	windowClass.lpfnWndProc		= (WNDPROC)(WindowProc);				// WindowProc Handles Messages
 	windowClass.hInstance		= application->hInstance;				// Set The Instance
  	windowClass.hbrBackground	= GetStockObject(BLACK_BRUSH);			// Class Background Brush Color
-	windowClass.hIcon 			= LoadIcon(GetModuleHandle(NULL), MAKEINTRESOURCE(IDI_MYICON));  // Load the icon
 	windowClass.hCursor			= LoadCursor(NULL, IDC_ARROW);			// Load The Arrow Pointer
 	windowClass.lpszClassName	= application->className;				// Sets The Applications Classname
 	if (RegisterClassEx (&windowClass) == 0)							// Did Registering The Class Fail?
