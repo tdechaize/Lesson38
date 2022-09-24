@@ -166,12 +166,12 @@ Scanning dependencies of target Lesson38
 -- Build files have been written to: C:/src/OpenGL/NeHe_Lesson38-master/build.cmake/CYGWIN32/Release
 Scanning dependencies of target Lesson38
 Consolidate compiler generated dependencies of target Lesson38
-[ 33%] Building RC object CMakeFiles/Lesson38.dir/src/Lesson38.rc.res
+[ 33%] Building C object CMakeFiles/Lesson38.dir/src/Lesson38.c.o
 [ 66%] Linking C executable C:/src/OpenGL/NeHe_Lesson38-master/binCYGWIN32/Debug/Lesson38.exe
 [100%] Built target Lesson38
 Scanning dependencies of target Lesson38
 Consolidate compiler generated dependencies of target Lesson38
-[ 33%] Building RC object CMakeFiles/Lesson38.dir/src/Lesson38.rc.res
+[ 33%] Building C object CMakeFiles/Lesson38.dir/src/Lesson38.c.o
 [ 66%] Linking C executable C:/src/OpenGL/NeHe_Lesson38-master/binCYGWIN32/Release/Lesson38.exe
 [100%] Built target Lesson38
         1 fichier(s) copi‚(s).
@@ -197,12 +197,12 @@ Consolidate compiler generated dependencies of target Lesson38
 -- Build files have been written to: C:/src/OpenGL/NeHe_Lesson38-master/build.cmake/CYGWIN64/Release
 Scanning dependencies of target Lesson38
 Consolidate compiler generated dependencies of target Lesson38
-[ 33%] Building RC object CMakeFiles/Lesson38.dir/src/Lesson38.rc.res
+[ 33%] Building C object CMakeFiles/Lesson38.dir/src/Lesson38.c.o
 [ 66%] Linking C executable C:/src/OpenGL/NeHe_Lesson38-master/binCYGWIN64/Debug/Lesson38.exe
 [100%] Built target Lesson38
 Scanning dependencies of target Lesson38
 Consolidate compiler generated dependencies of target Lesson38
-[ 33%] Building RC object CMakeFiles/Lesson38.dir/src/Lesson38.rc.res
+[ 33%] Building C object CMakeFiles/Lesson38.dir/src/Lesson38.c.o
 [ 66%] Linking C executable C:/src/OpenGL/NeHe_Lesson38-master/binCYGWIN64/Release/Lesson38.exe
 [100%] Built target Lesson38
         1 fichier(s) copi‚(s).
@@ -481,7 +481,7 @@ Copyright (C) Microsoft Corporation.  All rights reserved.
 -- Generating done
 -- Build files have been written to: C:/src/OpenGL/NeHe_Lesson38-master/build.cmake/VS2022X32
 MSBuild version 17.3.1+2badb37d1 for .NET Framework
-La g‚n‚ration a d‚marr‚ 23/09/2022 19:07:41.
+La g‚n‚ration a d‚marr‚ 24/09/2022 14:52:16.
      1>Projet "C:\src\OpenGL\NeHe_Lesson38-master\build.cmake\VS2022X32\Lesson38.sln" sur le noud 1 (Lesson38:rebuild cible(s)).
      1>ValidateSolutionConfiguration:
          G‚n‚ration de la configuration de solution "Debug|Win32".
@@ -503,7 +503,7 @@ La g‚n‚ration a d‚marr‚ 23/09/2022 19:07:41.
      4>_PrepareForClean:
          Suppression du fichier "Lesson38.dir\Debug\Lesson38.tlog\Lesson38.lastbuildstate".
        InitializeBuildStatus:
-         Mise … jour de l'horodatage "Lesson38.dir\Debug\Lesson38.tlog\unsuccessfulbuild".
+         Cr‚ation de "Lesson38.dir\Debug\Lesson38.tlog\unsuccessfulbuild", car "AlwaysCreate" a ‚t‚ sp‚cifi‚.
        CustomBuild:
          Building Custom Rule C:/src/OpenGL/NeHe_Lesson38-master/CMakeLists.txt
        VcpkgTripletSelection:
@@ -530,9 +530,9 @@ La g‚n‚ration a r‚ussi.
     0 Avertissement(s)
     0 Erreur(s)
 
-Temps ‚coul‚ 00:00:03.04
+Temps ‚coul‚ 00:00:03.38
 MSBuild version 17.3.1+2badb37d1 for .NET Framework
-La g‚n‚ration a d‚marr‚ 23/09/2022 19:07:44.
+La g‚n‚ration a d‚marr‚ 24/09/2022 14:52:20.
      1>Projet "C:\src\OpenGL\NeHe_Lesson38-master\build.cmake\VS2022X32\Lesson38.sln" sur le noud 1 (Lesson38:rebuild cible(s)).
      1>ValidateSolutionConfiguration:
          G‚n‚ration de la configuration de solution "MinSizeRel|Win32".
@@ -554,7 +554,7 @@ La g‚n‚ration a d‚marr‚ 23/09/2022 19:07:44.
      4>_PrepareForClean:
          Suppression du fichier "Lesson38.dir\MinSizeRel\Lesson38.tlog\Lesson38.lastbuildstate".
        InitializeBuildStatus:
-         Mise … jour de l'horodatage "Lesson38.dir\MinSizeRel\Lesson38.tlog\unsuccessfulbuild".
+         Cr‚ation de "Lesson38.dir\MinSizeRel\Lesson38.tlog\unsuccessfulbuild", car "AlwaysCreate" a ‚t‚ sp‚cifi‚.
        CustomBuild:
          Building Custom Rule C:/src/OpenGL/NeHe_Lesson38-master/CMakeLists.txt
        VcpkgTripletSelection:
@@ -581,9 +581,9 @@ La g‚n‚ration a r‚ussi.
     0 Avertissement(s)
     0 Erreur(s)
 
-Temps ‚coul‚ 00:00:02.98
+Temps ‚coul‚ 00:00:02.99
 MSBuild version 17.3.1+2badb37d1 for .NET Framework
-La g‚n‚ration a d‚marr‚ 23/09/2022 19:07:48.
+La g‚n‚ration a d‚marr‚ 24/09/2022 14:52:23.
      1>Projet "C:\src\OpenGL\NeHe_Lesson38-master\build.cmake\VS2022X32\Lesson38.sln" sur le noud 1 (Lesson38:rebuild cible(s)).
      1>ValidateSolutionConfiguration:
          G‚n‚ration de la configuration de solution "Release|Win32".
@@ -605,7 +605,7 @@ La g‚n‚ration a d‚marr‚ 23/09/2022 19:07:48.
      4>_PrepareForClean:
          Suppression du fichier "Lesson38.dir\Release\Lesson38.tlog\Lesson38.lastbuildstate".
        InitializeBuildStatus:
-         Mise … jour de l'horodatage "Lesson38.dir\Release\Lesson38.tlog\unsuccessfulbuild".
+         Cr‚ation de "Lesson38.dir\Release\Lesson38.tlog\unsuccessfulbuild", car "AlwaysCreate" a ‚t‚ sp‚cifi‚.
        CustomBuild:
          Building Custom Rule C:/src/OpenGL/NeHe_Lesson38-master/CMakeLists.txt
        VcpkgTripletSelection:
@@ -632,9 +632,9 @@ La g‚n‚ration a r‚ussi.
     0 Avertissement(s)
     0 Erreur(s)
 
-Temps ‚coul‚ 00:00:02.96
+Temps ‚coul‚ 00:00:02.95
 MSBuild version 17.3.1+2badb37d1 for .NET Framework
-La g‚n‚ration a d‚marr‚ 23/09/2022 19:07:51.
+La g‚n‚ration a d‚marr‚ 24/09/2022 14:52:26.
      1>Projet "C:\src\OpenGL\NeHe_Lesson38-master\build.cmake\VS2022X32\Lesson38.sln" sur le noud 1 (Lesson38:rebuild cible(s)).
      1>ValidateSolutionConfiguration:
          G‚n‚ration de la configuration de solution "RelWithDebInfo|Win32".
@@ -656,7 +656,7 @@ La g‚n‚ration a d‚marr‚ 23/09/2022 19:07:51.
      4>_PrepareForClean:
          Suppression du fichier "Lesson38.dir\RelWithDebInfo\Lesson38.tlog\Lesson38.lastbuildstate".
        InitializeBuildStatus:
-         Mise … jour de l'horodatage "Lesson38.dir\RelWithDebInfo\Lesson38.tlog\unsuccessfulbuild".
+         Cr‚ation de "Lesson38.dir\RelWithDebInfo\Lesson38.tlog\unsuccessfulbuild", car "AlwaysCreate" a ‚t‚ sp‚cifi‚.
        CustomBuild:
          Building Custom Rule C:/src/OpenGL/NeHe_Lesson38-master/CMakeLists.txt
        VcpkgTripletSelection:
@@ -683,7 +683,7 @@ La g‚n‚ration a r‚ussi.
     0 Avertissement(s)
     0 Erreur(s)
 
-Temps ‚coul‚ 00:00:02.99
+Temps ‚coul‚ 00:00:02.94
         1 fichier(s) copi‚(s).
         1 fichier(s) copi‚(s).
 -- Selecting Windows SDK version 10.0.22621.0 to target Windows .
@@ -697,7 +697,7 @@ Temps ‚coul‚ 00:00:02.99
 -- Generating done
 -- Build files have been written to: C:/src/OpenGL/NeHe_Lesson38-master/build.cmake/VS2022X64
 MSBuild version 17.3.1+2badb37d1 for .NET Framework
-La g‚n‚ration a d‚marr‚ 23/09/2022 19:08:00.
+La g‚n‚ration a d‚marr‚ 24/09/2022 14:52:35.
      1>Projet "C:\src\OpenGL\NeHe_Lesson38-master\build.cmake\VS2022X64\Lesson38.sln" sur le noud 1 (Lesson38:rebuild cible(s)).
      1>ValidateSolutionConfiguration:
          G‚n‚ration de la configuration de solution "Debug|x64".
@@ -719,7 +719,7 @@ La g‚n‚ration a d‚marr‚ 23/09/2022 19:08:00.
      4>_PrepareForClean:
          Suppression du fichier "Lesson38.dir\Debug\Lesson38.tlog\Lesson38.lastbuildstate".
        InitializeBuildStatus:
-         Mise … jour de l'horodatage "Lesson38.dir\Debug\Lesson38.tlog\unsuccessfulbuild".
+         Cr‚ation de "Lesson38.dir\Debug\Lesson38.tlog\unsuccessfulbuild", car "AlwaysCreate" a ‚t‚ sp‚cifi‚.
        CustomBuild:
          Building Custom Rule C:/src/OpenGL/NeHe_Lesson38-master/CMakeLists.txt
        VcpkgTripletSelection:
@@ -746,9 +746,9 @@ La g‚n‚ration a r‚ussi.
     0 Avertissement(s)
     0 Erreur(s)
 
-Temps ‚coul‚ 00:00:03.14
+Temps ‚coul‚ 00:00:03.03
 MSBuild version 17.3.1+2badb37d1 for .NET Framework
-La g‚n‚ration a d‚marr‚ 23/09/2022 19:08:03.
+La g‚n‚ration a d‚marr‚ 24/09/2022 14:52:38.
      1>Projet "C:\src\OpenGL\NeHe_Lesson38-master\build.cmake\VS2022X64\Lesson38.sln" sur le noud 1 (Lesson38:rebuild cible(s)).
      1>ValidateSolutionConfiguration:
          G‚n‚ration de la configuration de solution "MinSizeRel|x64".
@@ -770,7 +770,7 @@ La g‚n‚ration a d‚marr‚ 23/09/2022 19:08:03.
      4>_PrepareForClean:
          Suppression du fichier "Lesson38.dir\MinSizeRel\Lesson38.tlog\Lesson38.lastbuildstate".
        InitializeBuildStatus:
-         Mise … jour de l'horodatage "Lesson38.dir\MinSizeRel\Lesson38.tlog\unsuccessfulbuild".
+         Cr‚ation de "Lesson38.dir\MinSizeRel\Lesson38.tlog\unsuccessfulbuild", car "AlwaysCreate" a ‚t‚ sp‚cifi‚.
        CustomBuild:
          Building Custom Rule C:/src/OpenGL/NeHe_Lesson38-master/CMakeLists.txt
        VcpkgTripletSelection:
@@ -797,9 +797,9 @@ La g‚n‚ration a r‚ussi.
     0 Avertissement(s)
     0 Erreur(s)
 
-Temps ‚coul‚ 00:00:03.09
+Temps ‚coul‚ 00:00:02.87
 MSBuild version 17.3.1+2badb37d1 for .NET Framework
-La g‚n‚ration a d‚marr‚ 23/09/2022 19:08:06.
+La g‚n‚ration a d‚marr‚ 24/09/2022 14:52:41.
      1>Projet "C:\src\OpenGL\NeHe_Lesson38-master\build.cmake\VS2022X64\Lesson38.sln" sur le noud 1 (Lesson38:rebuild cible(s)).
      1>ValidateSolutionConfiguration:
          G‚n‚ration de la configuration de solution "Release|x64".
@@ -821,7 +821,7 @@ La g‚n‚ration a d‚marr‚ 23/09/2022 19:08:06.
      4>_PrepareForClean:
          Suppression du fichier "Lesson38.dir\Release\Lesson38.tlog\Lesson38.lastbuildstate".
        InitializeBuildStatus:
-         Mise … jour de l'horodatage "Lesson38.dir\Release\Lesson38.tlog\unsuccessfulbuild".
+         Cr‚ation de "Lesson38.dir\Release\Lesson38.tlog\unsuccessfulbuild", car "AlwaysCreate" a ‚t‚ sp‚cifi‚.
        CustomBuild:
          Building Custom Rule C:/src/OpenGL/NeHe_Lesson38-master/CMakeLists.txt
        VcpkgTripletSelection:
@@ -848,9 +848,9 @@ La g‚n‚ration a r‚ussi.
     0 Avertissement(s)
     0 Erreur(s)
 
-Temps ‚coul‚ 00:00:03.13
+Temps ‚coul‚ 00:00:02.85
 MSBuild version 17.3.1+2badb37d1 for .NET Framework
-La g‚n‚ration a d‚marr‚ 23/09/2022 19:08:10.
+La g‚n‚ration a d‚marr‚ 24/09/2022 14:52:44.
      1>Projet "C:\src\OpenGL\NeHe_Lesson38-master\build.cmake\VS2022X64\Lesson38.sln" sur le noud 1 (Lesson38:rebuild cible(s)).
      1>ValidateSolutionConfiguration:
          G‚n‚ration de la configuration de solution "RelWithDebInfo|x64".
@@ -872,7 +872,7 @@ La g‚n‚ration a d‚marr‚ 23/09/2022 19:08:10.
      4>_PrepareForClean:
          Suppression du fichier "Lesson38.dir\RelWithDebInfo\Lesson38.tlog\Lesson38.lastbuildstate".
        InitializeBuildStatus:
-         Mise … jour de l'horodatage "Lesson38.dir\RelWithDebInfo\Lesson38.tlog\unsuccessfulbuild".
+         Cr‚ation de "Lesson38.dir\RelWithDebInfo\Lesson38.tlog\unsuccessfulbuild", car "AlwaysCreate" a ‚t‚ sp‚cifi‚.
        CustomBuild:
          Building Custom Rule C:/src/OpenGL/NeHe_Lesson38-master/CMakeLists.txt
        VcpkgTripletSelection:
@@ -899,7 +899,7 @@ La g‚n‚ration a r‚ussi.
     0 Avertissement(s)
     0 Erreur(s)
 
-Temps ‚coul‚ 00:00:03.06
+Temps ‚coul‚ 00:00:02.93
         1 fichier(s) copi‚(s).
 
 RUSSITEÿ: la valeur sp‚cifi‚e a ‚t‚ enregistr‚e.
@@ -1131,7 +1131,7 @@ C:\src\OpenGL\NeHe_Lesson38-master\Lesson38.res
     lrc -IC:\lcc\include src\Lesson38.rc -IC:\lcc\include
     lcc -g2 -D_DEBUG -DDEBUG -DWIN32_LEAN_AND_MEAN src\Lesson38.c -IC:\lcc\include
     lcclnk Lesson38.obj Lesson38.res -LC:\lcc\lib glu32.lib opengl32.lib user32.lib advapi32.lib comdlg32.lib winmm.lib gdi32.lib shell32.lib kernel32.lib
-Time: 0.193 seconds
+Time: 0.328 seconds
 C:\src\OpenGL\NeHe_Lesson38-master\lesson38.exe
         1 fichier(s) d‚plac‚(s).
 C:\src\OpenGL\NeHe_Lesson38-master\lesson38.obj
@@ -1142,7 +1142,7 @@ C:\src\OpenGL\NeHe_Lesson38-master\lesson38.res
     lrc -IC:\lcc\include src\Lesson38.rc -IC:\lcc\include
     lcc -DNDEBUG -DWIN32_LEAN_AND_MEAN src\Lesson38.c -IC:\lcc\include
     lcclnk Lesson38.obj Lesson38.res -LC:\lcc\lib glu32.lib opengl32.lib user32.lib advapi32.lib comdlg32.lib winmm.lib gdi32.lib shell32.lib kernel32.lib
-Time: 0.16 seconds
+Time: 0.2 seconds
 C:\src\OpenGL\NeHe_Lesson38-master\lesson38.exe
         1 fichier(s) d‚plac‚(s).
 C:\src\OpenGL\NeHe_Lesson38-master\lesson38.obj
@@ -1155,7 +1155,7 @@ C:\src\OpenGL\NeHe_Lesson38-master\lesson38.res
     lcc64 -g2 -D_DEBUG -DDEBUG -DWIN32_LEAN_AND_MEAN src\Lesson38.c -IC:\lcc64\include64
 0 errors, 3 warnings
     lcclnk64 Lesson38.obj Lesson38.res -LC:\lcc64\lib64 glu32.lib opengl32.lib user32.lib advapi32.lib comdlg32.lib winmm.lib gdi32.lib shell32.lib kernel32.lib
-Time: 0.018 seconds
+Time: 0.031 seconds
 C:\src\OpenGL\NeHe_Lesson38-master\lesson38.exe
         1 fichier(s) d‚plac‚(s).
 C:\src\OpenGL\NeHe_Lesson38-master\lesson38.obj
@@ -1166,7 +1166,7 @@ C:\src\OpenGL\NeHe_Lesson38-master\lesson38.res
     lcc64 -DNDEBUG -DWIN32_LEAN_AND_MEAN src\Lesson38.c -IC:\lcc64\include64
 0 errors, 3 warnings
     lcclnk64 Lesson38.obj Lesson38.res -LC:\lcc64\lib64 glu32.lib opengl32.lib user32.lib advapi32.lib comdlg32.lib winmm.lib gdi32.lib shell32.lib kernel32.lib
-Time: 0.018 seconds
+Time: 0.024 seconds
 C:\src\OpenGL\NeHe_Lesson38-master\lesson38.exe
         1 fichier(s) d‚plac‚(s).
 C:\src\OpenGL\NeHe_Lesson38-master\lesson38.obj
@@ -1279,461 +1279,461 @@ C:\src\OpenGL\NeHe_Lesson38-master\Lesson38.res
         1 fichier(s) d‚plac‚(s).
 
 C:\src\OpenGL\NeHe_Lesson38-master>"C:\Program Files\Python310\python.exe" ..\..\tools\Size_exec.py Lesson38 
-Date dernière modification du source .\src\Lesson38.c : Thu Feb 17 17:07:58 2022
+Date dernière modification du source .\src\Lesson38.c : Sat Sep 24 14:46:05 2022
 Date dernière modification du source .\src\Lesson38.rc : Fri Sep 23 19:04:18 2022
 Date dernière modification du source .\src\resource.h : Mon Sep  6 14:48:21 2021
 Tableau récapitulatif de la taille des exécutables générés pour le projet : Lesson38
   Debug Borland C/C++ :      165.0 KB
-  Release Borland C/C++ :    164.5 KB
-  Debug CLANG MSYS W32 :     288.2 KB
-  Release CLANG MSYS W32 :   278.0 KB
-  Debug CLANG MSYS W64 :     306.3 KB
-  Release CLANG MSYS W64 :   296.2 KB
-  Debug CLANG Mingw32 :      236.1 KB
-  Release CLANG Mingw32 :    226.4 KB
-  Debug CLANG Mingw64 :      243.4 KB
-  Release CLANG Mingw64 :    233.7 KB
+  Release Borland C/C++ :    165.0 KB
+  Debug CLANG MSYS W32 :     288.8 KB
+  Release CLANG MSYS W32 :   278.1 KB
+  Debug CLANG MSYS W64 :     306.5 KB
+  Release CLANG MSYS W64 :   296.3 KB
+  Debug CLANG Mingw32 :      236.3 KB
+  Release CLANG Mingw32 :    226.6 KB
+  Debug CLANG Mingw64 :      243.5 KB
+  Release CLANG Mingw64 :    233.9 KB
   Debug CLANG VS2022 32 :    174.5 KB
-  Release CLANG VS2022 32 :  169.0 KB
+  Release CLANG VS2022 32 :  168.5 KB
   Debug CLANG VS2022 64 :    179.0 KB
   Release CLANG VS2022 64 :  171.0 KB
-  Debug Cygwin 32 :          297.2 KB
-  Release Cygwin 32 :        174.0 KB
-  Debug Cygwin 64 :          317.4 KB
+  Debug Cygwin 32 :          297.4 KB
+  Release Cygwin 32 :        173.5 KB
+  Debug Cygwin 64 :          317.6 KB
   Release Cygwin 64 :        177.5 KB
-  Debug Mingw64 CPP :        318.5 KB
+  Debug Mingw64 CPP :        318.6 KB
   Release Mingw64 CPP :      178.5 KB
   Debug DMC 32 :             183.5 KB
   Release DMC 32 :           183.5 KB
-  Debug lcc 32 :             203.8 KB
-  Release lcc 32 :           190.1 KB
+  Debug lcc 32 :             204.0 KB
+  Release lcc 32 :           190.3 KB
   Debug lcc 64 :             201.6 KB
   Release lcc 64 :           185.6 KB
-  Debug Mingw32 officiel :   229.6 KB
-  Release Mingw32 officiel : 183.0 KB
-  Debug Mingw32 WinLibs :    240.2 KB
-  Release Mingw32 WinLibs :  181.0 KB
-  Debug Mingw64 WinLibs :    248.0 KB
-  Release Mingw64 WinLibs :  182.5 KB
-  Debug Mingw64 CB :         261.1 KB
-  Release Mingw64 CB :       176.5 KB
-  Debug Mingw32 MSYS2 :      292.8 KB
-  Release Mingw32 MSYS2 :    179.0 KB
-  Debug Mingw64 MSYS2 :      311.5 KB
+  Debug Mingw32 officiel :   229.7 KB
+  Release Mingw32 officiel : 184.0 KB
+  Debug Mingw32 WinLibs :    240.4 KB
+  Release Mingw32 WinLibs :  180.5 KB
+  Debug Mingw64 WinLibs :    248.2 KB
+  Release Mingw64 WinLibs :  182.0 KB
+  Debug Mingw64 CB :         261.8 KB
+  Release Mingw64 CB :       177.0 KB
+  Debug Mingw32 MSYS2 :      292.9 KB
+  Release Mingw32 MSYS2 :    178.5 KB
+  Debug Mingw64 MSYS2 :      311.6 KB
   Release Mingw64 MSYS2 :    178.5 KB
   Debug OpenWatcom 32 :      32.5 KB
   Release OpenWatcom 32 :    32.5 KB
   Debug OpenWatcom 64 :      32.5 KB
   Release OpenWatcom 64 :    32.5 KB
-  Debug Pelles C 32 :        209.5 KB
+  Debug Pelles C 32 :        210.0 KB
   Release Pelles C 32 :      182.0 KB
   Debug Pelles C 64 :        217.5 KB
   Release Pelles C 64 :      190.0 KB
-  Debug TDM Mingw32 :        217.8 KB
+  Debug TDM Mingw32 :        218.4 KB
   Release TDM Mingw32 :      183.5 KB
-  Debug TDM Mingw64 :        386.9 KB
-  Release TDM Mingw64 :      223.5 KB
+  Debug TDM Mingw64 :        387.0 KB
+  Release TDM Mingw64 :      223.0 KB
   Debug VS 2022 32 :         232.5 KB
   Release VS 2022 32 :       168.0 KB
-  Debug VS 2022 64 :         247.5 KB
+  Debug VS 2022 64 :         248.0 KB
   Release VS 2022 64 :       170.0 KB
 
 C:\src\OpenGL\NeHe_Lesson38-master>"C:\Program Files\Python310\python.exe" ..\..\tools\Calc_checksums.py Lesson38 
 Tableau récapitulatif des différents checksums générés pour le projet : Lesson38
 Calcul des cheksums du fichier : .\binBC55\Debug\Lesson38.exe.
-Checksum CRC32  is a8fcc2d2.
-Checksum MD5 is 6270338cd86c699b07070b8c8742d4f0.
-Checksum SHA256 is e9dfccad0b12a97258f86e532186eb4b33ac603a669c8de6964669293c460c66.
-Checksum SHA512 is 71e9bf30f61d5ffb73a53cb68eab618378d61a2f33b9fb07a14b1266368a68413a557283e392f5679c7f35fb7bbb205b53582712b9c08ec58e852276b4b692ca.
-Checksum RipeMD160 is f66e33c4753a89c0fbc70eaf892f8b1bd34d3cd6.
-Checksum BLAKE2B is 739938224a793880f02e4c174edd8a87fd38661c999a80fbfe44a58d58d21fa373c9742c1a87b82fd1f7ee5dad72130f5d25b295335c96387a93201553fc5a9f.
+Checksum CRC32  is 225428b3.
+Checksum MD5 is ac99bb2b9925c34483c416fb412de16b.
+Checksum SHA256 is 159863738711bc085b299a5c2e43ba61bebbf8402e5e5743392998be3d048ec0.
+Checksum SHA512 is f8d47cf6cc9b1112d7b1362494b62ec87cfdabf59c86649f226bbff2b49aaa0d42716dfbedc07611dc02a63f7f003981103f61b3674c9898b7016d6a08d2e064.
+Checksum RipeMD160 is 123b05da98fa8d8433731fa88e9191755a73a8ca.
+Checksum BLAKE2B is 815367dff1c51b161d3bdef5402e4393189c608664714973f1715342feb58f243012295855c47f275a879441212671e979cf3edf89f3301c5ae16ec973511a09.
 Calcul des cheksums du fichier : .\binBC55\Release\Lesson38.exe.
-Checksum CRC32  is 7e10aa60.
-Checksum MD5 is f7eface0d06ed392dd6704ab351df473.
-Checksum SHA256 is 9cd26b4043eb9228105d78b20dd3cbe51bc9511f94d85668b4788fdaab79dbf5.
-Checksum SHA512 is 35dc2c22af9da4f787d8b8256843256d7f9dcff202201c1df67d413ceb5db0fc71acfff3779848c500f9b2dae568d43d58bcd49f123412e5d8d5f49130e351e5.
-Checksum RipeMD160 is 52cf7176bc8591f126b5e67c5da99998d591b1ed.
-Checksum BLAKE2B is df221fc0eb1b11afbd64bc2c22513ce324b1d76328ef9bc2f78c79957c43504fbe19f84da10404b2dedcc2046c0f12f3887fce8af1e6e331656c9a37a439a6a8.
+Checksum CRC32  is 412d70a8.
+Checksum MD5 is e8edecbef9a97255e5b6f2d80f955389.
+Checksum SHA256 is 7f94d90454d69c138a2eb9d5d826466240f3081d05ccaa8f82292c6be2b3797b.
+Checksum SHA512 is 793e891a2567b3e98e2d6573a60689aae2b3c4dfa8a94490a5182976c3b3af3ba7cf1f84cd82f4c1cc139a6c69329b315c873506e3d4e242d64a1f01ca124fe7.
+Checksum RipeMD160 is d6a5f30c0d4d875aa8664a7490b830c7d6cfc57d.
+Checksum BLAKE2B is 609d56243c1514bd64525853954050e4097e4edc334abb8a6947e07eef619879028d14a5b144cf9df116b166a555e45c4c21a7135577e316427db9340bde6edc.
 Calcul des cheksums du fichier : .\binCLANGMW32\Debug\Lesson38.exe.
-Checksum CRC32  is e95bd21b.
-Checksum MD5 is 8cdf4c971e3973f6cf5ce93124de980f.
-Checksum SHA256 is 8fbd2755cb9388a818745107912a8fe5b7c61d211528510695280531d751587d.
-Checksum SHA512 is b9b3978cc194b88b0fe6d8ff8b86f70dcea138a2d4187b1e6270b95407dc6b514abfddf519bdd37c254abd3ed5f7d4c485c12f8b05b907da0da397f7fd2a54c6.
-Checksum RipeMD160 is b4a554efdf2fd8f4703f7b4d7acb48c8a398fc7c.
-Checksum BLAKE2B is 9c1c2c0135e403608641c1680f62bb6f173edd1e26daa7578f2f2ff66842922910971e1a0a2599e219c53a4e419a0699e578c7115c25ddb035ba2045146f6f8b.
+Checksum CRC32  is d23e3842.
+Checksum MD5 is 55c8a7ff45cc974393dc2a6590e6a197.
+Checksum SHA256 is 8cea605bf7ccc0d66310dacb3c5e3babdb7024685626ff80cb3b21f1bf21d71c.
+Checksum SHA512 is 524c3bbf821c143f6ff2860c59adaf941a6b59d0f747b45a39597cde8dad84e517aeb092f0ed2e0e9683d80e870b3eea90ba3b19aeb4e0c16871e73cc24f2f46.
+Checksum RipeMD160 is 5b219df40996859cabe2f8602c042e2601805fe5.
+Checksum BLAKE2B is 443067ec7408a1176d4273ebadd7f0b5d965142721cb1a1a776603b6b014bf59e6c10f6355a76b3a41c928fb03924b5c722814d0cd2b5c09111a2eb6fd3401dd.
 Calcul des cheksums du fichier : .\binCLANGMW32\Release\Lesson38.exe.
-Checksum CRC32  is 1251c6f0.
-Checksum MD5 is b3ef168f3022dbc8d5086ac6213ecf1c.
-Checksum SHA256 is 64d5d1623ce459d72bcdace0b1ea362966899b6ab86268ee87d5579d4e7d80e4.
-Checksum SHA512 is 1a577d5f98ae788ebdf671b2fabd47fcf96bdf49ef487cf2a1e45856a02a884dda24dde3a862307c6625fe5389afbcf10cb63280bb565ffe967594c38714be51.
-Checksum RipeMD160 is 463acda7b11a300ee4438c7418e57ce5eacfc4ad.
-Checksum BLAKE2B is ae8d439b9d2952a6dfef2c1c2a2e48ad9c071222eef9563566eb447f7f2d6dfca62173c427e4a8d96559bf264d0be2953e9f87c247f80b0dbf52c2e73f9bcc8b.
+Checksum CRC32  is 4a1d1d8a.
+Checksum MD5 is b8873f4e052f63e3501ba2b19266accc.
+Checksum SHA256 is 97af886b8c3497cda3638121ca9834649a7d9a261bb73e0d30046e6de27f3a69.
+Checksum SHA512 is e5a9e8d4f998c9b7f9a2493dfecbbe0feb351bf7fcc434dd6d7e1568c9d0a694f4bfebc613d5e34a201de3f88bc38d062e71dc6b4047f5e6970a7bde20178a5b.
+Checksum RipeMD160 is 869d684dd52066bf0e8285ee162ab88300c9ff9b.
+Checksum BLAKE2B is db3e638ba1f78566aeeb4bea80e15d5b6e75aa8641bdd47585686e807fb3381187693e96d0e9467867ba1522d45743b8ac935c364933b146be27430036cfe660.
 Calcul des cheksums du fichier : .\binCLANGMW64\Debug\Lesson38.exe.
-Checksum CRC32  is 6dfd83df.
-Checksum MD5 is b71035371606f266ca6b06ca50148c3d.
-Checksum SHA256 is 8ff20b7dacb475f8f7f3891444364764485019b72327762efb0c31c1f5c85f41.
-Checksum SHA512 is 5eb56acd10b277a2d9be4afb0a9f7088e2e8d18c73094a13e3e5ae25a325c930f88a5388c6cce2bde6180c507bd4dd36bddf094b5e89b634be1013c989172efa.
-Checksum RipeMD160 is 9012772f92c70609492dca454fda82816289a22a.
-Checksum BLAKE2B is 885277103f92128d5a50a99bdcbc2020c49e57b071f5c6ab37bf4f78147b02518668025d08bd2793f1ddc0fc3bed0c4a39c89ce72b4e6c14ab7ba9cf2fab1960.
+Checksum CRC32  is fb179193.
+Checksum MD5 is d4572a7ab4d3bb454a2d41d20e46ff7e.
+Checksum SHA256 is 33f39a9a2c82cfb21a9c1f18d320a09917ff600bbad254039793508e3fab3a38.
+Checksum SHA512 is a69e81aed27bd114e4e7d450a3b267757387dafe70249c046f9a0c4586e4809b5bc53386558cef95c8176f61d8fca249f30d7a39b1be7512172e90b1c97ba5fa.
+Checksum RipeMD160 is 8c991f4d678fcd07b66bb64980671dbe0c33bc87.
+Checksum BLAKE2B is ff75697669d635d0156bdd6d0a546bdd87d7b4917f6a678e07192145728855f17eb0105723a0faba153839477afb195058a85cead854bcba45c37af79e3d6cb7.
 Calcul des cheksums du fichier : .\binCLANGMW64\Release\Lesson38.exe.
-Checksum CRC32  is 8fdc2e95.
-Checksum MD5 is a7b0fd656ae783ca1d6827e7f9cda0f0.
-Checksum SHA256 is 91925d097041f84965311148969d5b02ace6df18a710940ae3f1ea5975ab4aca.
-Checksum SHA512 is 36389ef8945f00e49a0f4b70411d5b269f33814df67b6038a6b12ad94fd02165ab8e5924adf7455f4037b1153c4c05afc821eb6f7bb58524e802a740e3d32de1.
-Checksum RipeMD160 is d7231b21a35df4c258c087f7b88bb2ba50582c4b.
-Checksum BLAKE2B is 2510ec42f8355a78cd347c8ecd04ca5ac144c5b80d25fc071a1100029c804e3a03cf4a80dfc7f4059c6f87fc299a2023369acb877b65bc95cfc4fb6cf0846f4d.
+Checksum CRC32  is fd0f3270.
+Checksum MD5 is d3927ce9a1eaa44b54526d5cb43eaa71.
+Checksum SHA256 is 90dada675c8319ca459cc01c543e18484415ba269e71b48a7ebce56978225a3a.
+Checksum SHA512 is 48bccf47784e74d868a0484910311e9ebeef5c1a58af41fecfaf80116c1c68ebd7f79585b45a78aeee4e713516a20f8b28b6c47f7b6776eb8f37ba08d9efdfe5.
+Checksum RipeMD160 is df22fc81dc0f7996e375914745df674bfb71a666.
+Checksum BLAKE2B is 5cc6258252f87340a2338e2d27f88a428392e8b16a4ba55b7c632a2b198c42f02afa8aac057bbf254b9cee8a626adde10b5595e33343c3b10558eece004b1381.
 Calcul des cheksums du fichier : .\binCLANGW32\Debug\Lesson38.exe.
-Checksum CRC32  is 5dabf5e1.
-Checksum MD5 is 8c50e316d85f0acf615b271c0691423a.
-Checksum SHA256 is c6f4edce4cccf21d362f040d6c8646ac6ec7b2b73cf94b3f7519bf96dd7c7426.
-Checksum SHA512 is be1481dc22438b107be56f998285feb9033160cff641105ce903bfbe0aceb3766aa11c28803cf513e141423dcb96d48a8671197e65245ac7e37b5bb1005b6835.
-Checksum RipeMD160 is 9fc485459b9171dfc49bfd0ce839df1369600fdb.
-Checksum BLAKE2B is 76d273d3716ebbc6ed919b38eea686a382167843eb7d212b98406ea94f2ac0038f8d91ac4e499562f513da35216394625fb677af6f0c5c83f07413c6666a286d.
+Checksum CRC32  is 904635d6.
+Checksum MD5 is 1360663286ee2a10218510f13baaa720.
+Checksum SHA256 is 1a5b438ab21370a2a44867e2f0f120afcc9db88d4cc141d4ba0b199c708a8507.
+Checksum SHA512 is ddf1f4670378734a46545561c89f2b6adf62f0e48758dbe2ca9fe12e956280484e5a7922116c335ab279ee7e4c32ef28ee647129c5adb91a6d54c76bb59d3b91.
+Checksum RipeMD160 is fd13fa90e38f4d8b5bc62ca97dcc1ebe5f578d4b.
+Checksum BLAKE2B is 2d12a0d4fe66ac6c210f66b958902ecc03f9ee9dfa712de133572711dc3bc0d4a9dd5e1c7e5d95d78fb9ef62977193c0423552f749b2c4ddec72525a389c8f84.
 Calcul des cheksums du fichier : .\binCLANGW32\Release\Lesson38.exe.
-Checksum CRC32  is 59db4f35.
-Checksum MD5 is 091614c28fff6296cf9063141d16ad5a.
-Checksum SHA256 is 25f5411fc873aa857375980d687319a9082c8dac01e637053baf13213538240b.
-Checksum SHA512 is 14127b949a1c55c1939283edd1c305aec5e9aea8a9d3ddd529141dd344b85f95f0632835ac0430f1888b2cda0c1f17f38616c51c2379e374d0fbb5e750a84f61.
-Checksum RipeMD160 is b1c7b0dfb607e15c44319c7e4378b0346bd9b57a.
-Checksum BLAKE2B is 64b2dde57bb261f3e24351b73009af8a9913dd8e9bb942e361c7e2af497c4f63d9060c88a91f1bebddbcffd7f3dd53d32a763e24121410a6cd6625f79863e94f.
+Checksum CRC32  is be10877a.
+Checksum MD5 is 465db7a70eba25a604bb9f27e9e456de.
+Checksum SHA256 is 28b33ca33a7a7c854822bef0af0e4329bdee91f2c43b8abd115d2785865c42eb.
+Checksum SHA512 is 030c286aa371c13e48b6a4d3c801552dd11c59e70284ca13ca73a99b0bfa82cf519e44eeee27325a1b4f805268e08746bd69537554ef00c3c3b73abe76451790.
+Checksum RipeMD160 is f47d9950c4c5e4d0e26a556d49a1ecde9ab1b519.
+Checksum BLAKE2B is 2b44382a07bc0f7655f26a0ca746a4f260846d732de873ce341de4cdce8ca7b7383cb8d7700d469ab8ea65bacce3f1059c61c3d88ec3f6cdb0f51a7d558c3921.
 Calcul des cheksums du fichier : .\binCLANGW64\Debug\Lesson38.exe.
-Checksum CRC32  is 87dd4293.
-Checksum MD5 is 31b70d785464ac76abd9fedd593a44f6.
-Checksum SHA256 is 7588438216bd778dfb777a3fa64481535c41b7b61a8db2ed7bd894c68947e51d.
-Checksum SHA512 is 507bffe239ad8e490beab35098e951ed91a5430bf287b5891a3c6e69a1dc2d17f230bc64711dd7b1392c6346b1076849480e19ea6481809c678e38ffaca65f59.
-Checksum RipeMD160 is 1236692be23a6a122745b6c7b10fa7fe0c9c1de8.
-Checksum BLAKE2B is ca51645a99b9da7ad2f6996f2e955286bd54c298344439e6e6024dea736116f13eacbf9742353f2a087a5fa1cc341fbff280e15b38e88deea49532378bc8629e.
+Checksum CRC32  is 240d1fda.
+Checksum MD5 is 54678c367532ebd0ad2403d8f5fb6443.
+Checksum SHA256 is 236bf294d95db7cd4215821dfdaa6c9fda5f8a0a4ae62abe071ecadd712a3813.
+Checksum SHA512 is 6a5e7865d02963193d892766f20396ac14eaa294e61e0d0b776e8187cdc8ee60301a5a69222bc33874cc41d46f24c202608e1d9afc9aa5dcb4e8616ecdd96f3e.
+Checksum RipeMD160 is c9248aa2cbea2822803949b4d30039d655f072d6.
+Checksum BLAKE2B is 7ed8e114b3bedc6f3f2d67e77220bfb2956cbae0a406d7ac4159f43e4c74ff9e95b52f263f5cda3c380320e2e29bbdb257f4dc233b14b6639b3112edc8188918.
 Calcul des cheksums du fichier : .\binCLANGW64\Release\Lesson38.exe.
-Checksum CRC32  is 65905710.
-Checksum MD5 is dcf2f665e2100f5ae63804d16503a514.
-Checksum SHA256 is 485797e5acb87952acbe014f9bdeee451b7ade86dd88967701b48b7162f36178.
-Checksum SHA512 is f9e8b34a2769ea8201fcd7e4799c1ed1de09aa91e79d5597938414c53b7bf9df9d7438a7f85bdaeafb08c5bf1208a52f6450bc1e086fb88c853b6a6832bf05ca.
-Checksum RipeMD160 is 530b6aff21323cd2c3f98a065aa615ffe2827f1d.
-Checksum BLAKE2B is 70f737f96aa99b489f7eeead9dc164bdd0934f0ed376e1d52b11a54bf978720c40309ddb6df72659f62814578393ce64c5b50335b9e9dabd568820764c94c17f.
+Checksum CRC32  is 229ff11b.
+Checksum MD5 is 39cb7c36aeba74727869f04d160d3d32.
+Checksum SHA256 is 6848d47a8a7885df6896b919f7a25286fe8d3b08821df8fd188ddd8f8df8fe4f.
+Checksum SHA512 is 0cf4a54014ae5a5c1ca0f85982541f8c5459b2cfc6ee8b447482d8c5c70886e9d41cf14b33849484d36b9d66c6d10b14ac69eff7dedbef353ba58001f851125a.
+Checksum RipeMD160 is 0d87a1d954b0dc564bd7d0e04952470fa519ecbf.
+Checksum BLAKE2B is cb868adc8cab03abba12fc39f2aea151fd6dc535f834d1e4ba9de92e09ac7d342af448ccfd03a257c5e5c8b654f162866aa2fba65f59af26c063737cb52e153b.
 Calcul des cheksums du fichier : .\binCLANGX32\Debug\Lesson38.exe.
-Checksum CRC32  is 3972e72d.
-Checksum MD5 is 7afd7966f937022fd422f0e869728b44.
-Checksum SHA256 is d2bbacad3bf9c347d4a291e254a60f71d4ecd1851bf96d6f272b2eae1caee76e.
-Checksum SHA512 is 063c6f0928e8e0fed81ce36a176c245f0c3ef0680871c88722a5f2b739fc7ecc8f3fb570292218c9ea413dc547ec8c5e4b5c1d83bb57739603fb54ede6eb07d8.
-Checksum RipeMD160 is 5adbf4c2c19882b69769deb372822e39e8605dfe.
-Checksum BLAKE2B is b29256d7f2c3cb4233ea0e43f95caf2c09086b57c982eae1390323689ad20aa90322bfa6ef9ad378cf98a8d48ffc5d54b2fe4d7dce3f1651940f6a199c3e657c.
+Checksum CRC32  is 5230c57d.
+Checksum MD5 is 8d24edead8517d71b56121c65bafd4c5.
+Checksum SHA256 is 416d33ecf0d3f460619fa823c6cc097393124ec0c6598557a2c3457172830b7d.
+Checksum SHA512 is e16337c3291d1b96d1a150676960ffed017d20a172b235856514fd146f1d74afae20838e96d9a25590cc36843ce0545a44b74db4fd4d4d2dc4ce4abc89626eb1.
+Checksum RipeMD160 is 049cd135a20ac5b3da53081f658878d04cdb8dfe.
+Checksum BLAKE2B is 06649205a19e909616c7177c1f60e6b4ed4a4d2387c8740e8479755b76620f6afc9d784b30f68cf68be6e7b96e781b1b6ab0bf0e005f597821047fe942d18477.
 Calcul des cheksums du fichier : .\binCLANGX32\Release\Lesson38.exe.
-Checksum CRC32  is 625f3954.
-Checksum MD5 is 6c7d01168d6afae9efa10a3cd8346de0.
-Checksum SHA256 is dbe98f043cfbceea935b5b3bf14bcf134598628078fb6411f1714d1939350cff.
-Checksum SHA512 is 54730a1d338c3ac7d89f77c6f3ffae1c49339c13858fd0afc8e4d1442b84f0d449f2189177f6502402ad19f94600a899286b8511ce2bbd27fba38e51861c523c.
-Checksum RipeMD160 is e67ed26db1a47d030cbfbb4fdd6a538fe3121e8e.
-Checksum BLAKE2B is 15746565af7ef4a68ab30b435ace7be129c257711bccb4ab3954d79224e7013298232bf5618c6c3dc8cb983b7833eb81f22ab0c24ffb8a0b18e916bc71a6d816.
+Checksum CRC32  is d511f510.
+Checksum MD5 is af8efff1626aca529d79c4d81841ef9d.
+Checksum SHA256 is b85c694de58f242c97a2fe154b0e38504e192efbe38f8b0f24a935310c7b5d3a.
+Checksum SHA512 is f395e9ea99dd3ee68fe3b4719b92d68116990624b57667049c9ac5ec3e1f4bc60fc9661979fb6b960062c9cfdfb28825ac46f400ad9a80ac7c68bc661094bf45.
+Checksum RipeMD160 is c7009bf18a6ac155ec14c3db9ede655e77757d88.
+Checksum BLAKE2B is 76623fa661fb073d2458b8d317cd4dc6e44269983a544f0bb63752d15c0c7850a3afc8fe4dfc706936f9b56d6735825fdc0176cb96967ec8da5af84c48e6b1eb.
 Calcul des cheksums du fichier : .\binCLANGX64\Debug\Lesson38.exe.
-Checksum CRC32  is 6c3c0185.
-Checksum MD5 is 70d922625112f76fd72f030095bb0d37.
-Checksum SHA256 is 803f441bc8e3e25f9109db514de91d31fc8db6ce6687dd41ebb1f78c1e70621b.
-Checksum SHA512 is 67f186530de7f36a132bb2aa766629f8168224e4cccb99b6d97cc5d0f30633559588c7708c1d6f02efff7c3067331b0920a1ceab305e60f31a812230da6ba71a.
-Checksum RipeMD160 is bfef346ffee5e06e1924214765fc1bc052b4ec23.
-Checksum BLAKE2B is db0b5850acb30d89ed22595ed7efe53e20b46ed57db2ec80472c081da3b7e28abf252623aac1a3c07ffb3bf57306114ed151e3121bbcfc9d3b41de81f4723f7e.
+Checksum CRC32  is f544447.
+Checksum MD5 is f10f9ed672b8a385bc45413a21fe0cd1.
+Checksum SHA256 is c076fedf46b16ce09a5f7c086c4d168fa6d65f62d49f20584c9b92329b7996b0.
+Checksum SHA512 is 809e842699b3d9a7915f210ffd09a3422028e3fc6fe66f8ec7addfa13894976dbf03b301884f57651d2735278ebca7aa3d0f07db0fb654f27d96b167702a3ff2.
+Checksum RipeMD160 is 7e1e5ce8df9b82f0425c19a504800082f6c17529.
+Checksum BLAKE2B is 72722e7a00e784ab4b275406105bcb8393ba5dbf0c8dc1f3f5ceb76c66507a151361de01306e23315403e8c8efa00c5f0396e2387411984e0a73684c27324716.
 Calcul des cheksums du fichier : .\binCLANGX64\Release\Lesson38.exe.
-Checksum CRC32  is 531b6ed6.
-Checksum MD5 is fdb429cdda37a03046097ea777afce1d.
-Checksum SHA256 is 31ff0476b02fda8990265a02b90c956eb5494439ff4e0b5205d3b3ba502ea7a9.
-Checksum SHA512 is f17ffae39b0f5d5691af1940360032221ea5a172ca3344d31b775ff7838bb17c15bdc535348544c0664b92191036a6cef841c20c5ed8a98af3030b3dc6b75682.
-Checksum RipeMD160 is def991b05a63544d52a9703c33ccde1cf9cebae8.
-Checksum BLAKE2B is 81e97017ce4e261ed1ab6346e4f72ac5dfbc94feb983cd5d0d04635504125bf291bb934fcfadd18da78c2ce44eeba410a553ce93be554815479c09094be5475a.
+Checksum CRC32  is 467962b8.
+Checksum MD5 is 1581dbe782ee43ba83590f3636f8acfa.
+Checksum SHA256 is 7f378229cfe3360c4558a1971dc385801beae5a905fd0a38a5e1bded77369263.
+Checksum SHA512 is bb6ffe4c91d245b27b2c0da64a3ea9ebab77c95781f0d623540aeec824f09baa8f8fd9190e7e2e8b3cf8ba093cbb42895d88073cace612531743cddd2471b93e.
+Checksum RipeMD160 is 53d8dc3bcfd88e7a5298cc40c09bf83193978b29.
+Checksum BLAKE2B is 5763b0e9ba82cd68da11b674aa75c5d534b3a350e08cdb05f41326e78781c3a84e6dcc54d018819e828224772ce69129152277d425f8a88b59a3a421c33e809f.
 Calcul des cheksums du fichier : .\binCYGWIN32\Debug\Lesson38.exe.
-Checksum CRC32  is e615872d.
-Checksum MD5 is 4f532c1bb50d5ea53c91999670dca034.
-Checksum SHA256 is b4483d205578ad84d71f63b82f7b3f4e8c6c5b0ce94582d98084311480d4842f.
-Checksum SHA512 is 046e4c58dcc990429010c353b27c56e502a391141b43eb94fa0ed49e8752ed973eccc24fc4fb7a3a496b67b47d1f73911bde07aa95d9c4ba921a01c6fada3edd.
-Checksum RipeMD160 is 1d14594a01c621249ea955fbdff03b495b41f806.
-Checksum BLAKE2B is d6173dfb59c5bd877f42cbbfe0d2f12fd20e701b96ed8d9fe4e1d10286e821b31afbc512357415f11c41abacf6617b25ec884c46d08e3b97fa2e1bcd43167a5e.
+Checksum CRC32  is 7fc5b324.
+Checksum MD5 is da773b6e8f2a6333482635217a99e8a3.
+Checksum SHA256 is 8b1412cdaaa036622f649c508d2c803c7e2de7c34fbd770a6fe89f2a3845532b.
+Checksum SHA512 is 814752f0a41d84436029f3177ad1f4b3b9112ba5affe47d512e173fcfc0db77091ccc1a4a0832e850d9435ffaffd0a20451e9c3c4121cc54d1057a45e928dfb4.
+Checksum RipeMD160 is 1b52f5bc81052d40f20335454cedbf65c5b19d15.
+Checksum BLAKE2B is c22ea52ca35fe30340a3c71a24a09845685c416ba1850b661b8a7fc7b145632d0672af5faf458e6c20fb10f2d22a6ab69c32c76cf4204d44c1d20280a30fa492.
 Calcul des cheksums du fichier : .\binCYGWIN32\Release\Lesson38.exe.
-Checksum CRC32  is d44f8bee.
-Checksum MD5 is 02a3dac769eb1e093af460486f17139f.
-Checksum SHA256 is f68ec2ecd35d498c7324e45b5c817ca016baedc5468bce090f18ff910d50597d.
-Checksum SHA512 is 463a4091078877974dec3f534eca64b1b1fe4642ab4adb4c808e9b679169f518867d52c9cfafcf9b0a4bc2b2413e829b46b5d660f800fd0cb60c3028a7101a3f.
-Checksum RipeMD160 is 419ce561d1b238cb5d8373afea63e1605143bbeb.
-Checksum BLAKE2B is e0403fe57e40590865acb6822c514dca844ea29ca27da094106c5ea40a7e648df31813d0d7304b6b0cd20769139a48516231322d8644d5d0767909ce410fe680.
+Checksum CRC32  is 615e744c.
+Checksum MD5 is aeda55181a369ff7e60c882f253119bf.
+Checksum SHA256 is 4f5d455284266d9b4059ae770a0bcb6ea054f43e24715f667e61e99b9cba0459.
+Checksum SHA512 is 34854610bc8c872d133a6a60f731360e57769145a87f23ab3bde68a2650a9a1756306a271b593ae2b88025788a62851cdd68837598d8b887fae38ca625933a0f.
+Checksum RipeMD160 is 2c3adfb8bdaf1e5524d15834af63df94d7fb66b1.
+Checksum BLAKE2B is f5e233ac52fe8cdbd9025b9ce5344f739a32074dc7761c9c9d6345e9b00b0c075c6d83429806f95ca0a63040b2b30a126cc197613baf61d5a0bdda7fad86b974.
 Calcul des cheksums du fichier : .\binCYGWIN64\Debug\Lesson38.exe.
-Checksum CRC32  is f383d2a7.
-Checksum MD5 is f5bb2b2e62221e215a902929bf6aa2f9.
-Checksum SHA256 is e7cd2e75031b5f52109b47a0c5677ea0bdafb44cb8b83f8eb95ab28e0ce41367.
-Checksum SHA512 is 7e0883d57e7b208739b596e8f5a450d3ae0e7ec06d25b337f9f71fcc188b742929ac0780695241fa48a47dae8ce941d36f15c103d01498680f9de0041f9c5d85.
-Checksum RipeMD160 is cae866c830002ab487ab7f7bc8bcf7c73300c40b.
-Checksum BLAKE2B is 5da2f463eb1844aa5ea304895a715815b90b1baa5f2311634bd675b735d9495e5a1caa4d8c5a503ad9d6a6f9f8b81a03db57fc5221ed979397576f0fabbbc3a8.
+Checksum CRC32  is 2c6bc9ce.
+Checksum MD5 is ff42e4e39e1f49f608847d32b3edfff6.
+Checksum SHA256 is f90e22fdd2ad9a83b9877d7a2b9da9f81091eb10e0e85423a5f6b0753a4b0605.
+Checksum SHA512 is 67972e13e5fa3ffaee0e2068c1951b6d940ad53b8c3ead10228a564fe2ed16576e2c22db4663dc45d30465bbbc8fc7e679979e627eeda91cdc1fdc3e77437ab3.
+Checksum RipeMD160 is a69ffe2bcdd12808a349635df979059c0a89f912.
+Checksum BLAKE2B is a9a6f0a6f2611cac2a6a0af29da351fce6f9f2f6c50ac77a202d4d08daf672607294aee26a9377c8410f27a2a16f10e1070bd2ac3f226f943a8295c62b72099e.
 Calcul des cheksums du fichier : .\binCYGWIN64\Release\Lesson38.exe.
-Checksum CRC32  is 5b5c6776.
-Checksum MD5 is 15315718097b13fc8accf145b2685a01.
-Checksum SHA256 is d3ca8b76c8d6bab73d592dcbc69f561bedfe8281999554c6a83e3f2f839dc342.
-Checksum SHA512 is 5ef20547885593d385d72d10504748d5b214b487ee274cd9c0b1813534e5f4ee4001e5fb4d1b9800d2a5d8c2e552fba128d0de5e7078e726c0bc6bd20c13eca1.
-Checksum RipeMD160 is 012778798965a8dea8f3bd1ff3c53fb1f12f0e70.
-Checksum BLAKE2B is 40557ac987ca3587f6b0b454501722cf3a2efc0b86185d63672b958cadf6ada2745b5fb0ef764f52dcbf8295c41eb0829d4cab744159c757ff0e9792837f302b.
+Checksum CRC32  is 721b04d4.
+Checksum MD5 is 42dcd5b0f590f290c5e2cdcb74ae3696.
+Checksum SHA256 is 4ad1afbe8263459e2f3e9d15dba32b5227f028df582e1c515c73ffe67363966b.
+Checksum SHA512 is 98c317caa231f71a25d3a6ac0f766317d20781b7523e2eb4e8f3cabecf508f2a6ab36e69da62411310f6f4ab478284de997018b2ea2461286a26de416e3c8fda.
+Checksum RipeMD160 is f971847cad5ff1ef205372591443a7b2a8631444.
+Checksum BLAKE2B is def37e61dfbd2eccd6c87d1d208d89ca035bb45656b73c8ac1e823bed2b04b31b6d8e520badd67d59cadfa2ea46d721dc5fbbd0bbc6503c58a2fa2526a7a2048.
 Calcul des cheksums du fichier : .\binDevCpp\Debug\Lesson38.exe.
-Checksum CRC32  is 1422ac0f.
-Checksum MD5 is 8f91ad68eba9f59a65fafa7a5cd1338d.
-Checksum SHA256 is a6fee6d42ef942734774c52fe55b630e3a7280d84d8a4ffc26e9e7e1cd570aba.
-Checksum SHA512 is ecab51852db92bd3f65538c654eaf026638ba684a7369643a8166bae759e1479846cf841bd08ff74b2b5aa677aa81388ff7ad8879e489c806b75ac98bb8fba9c.
-Checksum RipeMD160 is e33196476b530dfae0da53f259f35a59abab3ce9.
-Checksum BLAKE2B is 3e8c5beeffb8538274c9b0c397bad426600a7abdfffc74595410aba4cd4f58002ab42b3109d08009ef6282c6e34441a3a171ab23db04f8459840afe19dd196ae.
+Checksum CRC32  is cbf6f7ff.
+Checksum MD5 is ec26f5087b58e47bd6fd77ae4a8e8948.
+Checksum SHA256 is 94fe3ae606256a5d0656c9bf351749730838962e6a07a552012f5f1a856cbbc0.
+Checksum SHA512 is bb5b318918feb5e5902796342e29959e64de00805481cef4ad84d0da28d85b9d5fb7c381afe1d7d0306bc7149ae7f0b420f84c76aeb84071a615af5b02fe7bcd.
+Checksum RipeMD160 is 33d0aad2537eb4a35c3d490f472cbe53a57e9911.
+Checksum BLAKE2B is 0ac79caef70e303929a5e9dbfccd89845527e44084f40db4343c3c01f0e975ccdf90f29997c446a8f33bc89e5c659c01f7164c5e515d3de0e10335684012595a.
 Calcul des cheksums du fichier : .\binDevCpp\Release\Lesson38.exe.
-Checksum CRC32  is aea9f5.
-Checksum MD5 is 75d35229a62e0aea5d7cdb8d20ca81f2.
-Checksum SHA256 is 5a05e2694306c2c3a55d533578a005cc28de037525bbaa47b1a6adcd9d977b57.
-Checksum SHA512 is ebe623d94edbc8251ec62cc38ce7d1077217abf023d4d2dbb30bd74801f5b8ecc5841031b28d48403fe8cd179341cf7a46d9a69adfe40cd4932f8b1b0d1eb549.
-Checksum RipeMD160 is 99153627393fef25393d8677cc921c343ed40b4f.
-Checksum BLAKE2B is f186fa41b09a40400e1a094d7f02536125e04c99867e4b5c1f8abfb889f44f5ef0ff24c77526887b8adb42df6c796063807468de070f6c7504c616aa6d880e1d.
+Checksum CRC32  is 25c1bb58.
+Checksum MD5 is d14669d9f7005f2c536b9053a398c98e.
+Checksum SHA256 is d34e97a192ca3240cb1a3bc0c01f62ee57b6985be7ab4b3b9f31916861732bd9.
+Checksum SHA512 is 80c0aa204d5beb58c04fae013746599f9dd7cb7a88ad803e101a1435f9053814a371171eb847b77102f81e1fcc061051942b03c072d5a994e02a298d2c25dc13.
+Checksum RipeMD160 is 522b152b54ae182e90870ceff2a18fa7b1bb5473.
+Checksum BLAKE2B is 200ed96bda942899c6a9db95f48922a5616c22074177699fa10a2a6bae4840a87784db7eab19b8e320b2b24c7b9cfe2a2bd16d32d908bbd110fabe375b41a7d4.
 Calcul des cheksums du fichier : .\binDMC\Debug\Lesson38.exe.
-Checksum CRC32  is 13bff1ab.
-Checksum MD5 is 19649cabc8aa45813694857ffe34a5f0.
-Checksum SHA256 is dff11252013e8bdf72115010c551f95ff3c2303d1327444a7f06c25ca8647f8f.
-Checksum SHA512 is 8374031479ed3413c335872ab1a70df269562e6bd298f9028e5782baa30d9d47b54f39cddbcde4a981dbaf8685134e1a288d769210fde623917062c2070706c4.
-Checksum RipeMD160 is f0d7fe1869414771432d34df97c253bd8fd08e12.
-Checksum BLAKE2B is 485f67332a4e178c347484f596b41309fd2b8eedcedfd73e0158f03534f1156d1d23b3dde7fd5c6d101a959ebfbf02f93ed2ef1460f1e383fdbf798981698036.
+Checksum CRC32  is 58b7e049.
+Checksum MD5 is 2e7505e3a11072b688ee54125229ef28.
+Checksum SHA256 is 74279defdec8e2aa9c49c6033adf4aaafc988bf755cdf261ca00c238ab62c80d.
+Checksum SHA512 is d7cfaa094601a010d470b3ea4df3b752c2882af0317881001cc594d2f28ea441094ca413507c703f0b48f72d6a981eda3915748937c8c24e006e632f3b0549d8.
+Checksum RipeMD160 is 3e5b463ba79bbc568c0cfd6bfe24ab9f66517de0.
+Checksum BLAKE2B is b2005da831ed8e89baa0c96b11c0067f8e67e19109f8572d0d4ce11a19bc4e17cbc58ed0726289ef994a1c8022996a67010c1afca3b600c872b6ef58d4c9dcf4.
 Calcul des cheksums du fichier : .\binDMC\Release\Lesson38.exe.
-Checksum CRC32  is 92a82bbc.
-Checksum MD5 is 87fd43c76a6ef93142924a8734442886.
-Checksum SHA256 is 8754f44d8182f77f0c1b9834485bb6e8f3dd2a930a512c86d6aa78b5a0c165b1.
-Checksum SHA512 is 3612369faf46de652aa30aeb76d294625ed4cc086c4001e8e8e434de329ff6444f709d88a2fce38cb1068d9bed17cabcd14df7e993c6d15518a65d0cd8bca87f.
-Checksum RipeMD160 is e6ec4586638b0282687e49f51aec0efaef78537a.
-Checksum BLAKE2B is d400c39a29c0d3ebb44bd435eaae9097f57140149ccdbeb6f4685081c9fc5fca118d1bf097a9e21711a2ddc85af9cfcea758a0aa80800544b0d6326496ec0732.
+Checksum CRC32  is aa19722b.
+Checksum MD5 is e39caeb3623fe91686b529a562fa9e9d.
+Checksum SHA256 is 0dc7cd817d7d44dbab8d15b0e83bcc98257969ff2befa3c1f8e7beb27f0980c3.
+Checksum SHA512 is 57e33103b816da9e0d0cda778f7f6726a2c7c5e4f631738693f59e938749717b908364f40994871459c736e176b7436038e3e07054ca411a89162ade6db81636.
+Checksum RipeMD160 is c88563b4a92a31141536929be917148b67d5eb2d.
+Checksum BLAKE2B is 6a532efd2870cd5a9d4b056c9fdb38fdc8c70057f07572e169c4ff146d8192e56926fdc75427e7ad17be61f658684afb2765f7bde3ec4d395340f9d398f9aa91.
 Calcul des cheksums du fichier : .\binlcc32\Debug\Lesson38.exe.
-Checksum CRC32  is af9b2589.
-Checksum MD5 is c42c45c9b8c652de9c36950df956f63a.
-Checksum SHA256 is 0c6b83805a1c692a00eb0eb13e34b0cf75a7d8137f4ae14c98f26f5b6214ae8f.
-Checksum SHA512 is 8369ea048ac9715fde2a28606129e13184772f13702610c1a9c9dcf2f2ec4e1f5d4ab203e1f856431faaac882c71cefc59f484311c2830ffaa56530bfc490339.
-Checksum RipeMD160 is 510d2bc1be7bcb844f69e1323b36a95ceaeeb046.
-Checksum BLAKE2B is ade7a0dc4b3b633a734c275d858ff06ff062e4d886bdb4591010d30ef117d9a985bf9b92f2b8a325878dc3108bb30f380efcdcee8be2e04e03673ab282b876aa.
+Checksum CRC32  is 5651d9be.
+Checksum MD5 is 27626f35c0bef6c6d716bd77b85ef4e2.
+Checksum SHA256 is 1ba840bced30ef5057779516be1350d1beabe6e4247ab88bc5871d4b30d9589a.
+Checksum SHA512 is 38562a1286f82193fbaea7e46b5bfabddea80ed7eff25d9eb1b45679e8c312c10dbb40d43594294e61c5e0516d646c2355435edf7c902c873dfb010c78487271.
+Checksum RipeMD160 is ac344be78afdc93d71c9039bcb4e532e5d6e6bed.
+Checksum BLAKE2B is fee02391e64d54bd7642d1c5ffcb6458813c46863a60e04a3f0c54159d35979a3c509e15a64958e0e912240ba36c6a126ba3b454e05e7c6a7667050413e8cc4a.
 Calcul des cheksums du fichier : .\binlcc32\Release\Lesson38.exe.
-Checksum CRC32  is 2fe6b035.
-Checksum MD5 is 6caed8ba29f5f228619e88ecb6a80e03.
-Checksum SHA256 is 529c809bf3626eb2d485224ba1a8f114bd73e800d530c017104d4101a1235f69.
-Checksum SHA512 is 1ebfc19c75f7369245ee392a579fb8fcebe1f5d62f8becdc65eafba97bdc4871cbee6df4e4a683398fc0da9aff089431bda490d39353245830a0ce9e24bb6050.
-Checksum RipeMD160 is 6d237caaa2e12d67978ad353b18009bb11c007e8.
-Checksum BLAKE2B is 7604529e5f76f7a8b832eb0efeec5f8dd9b453582d8e8d6b0a941cd0a2c35353e157e275869d65ef73b4cb661ee68d6d4df94cf7445d64b16daca1102dd40d11.
+Checksum CRC32  is f4d93bfb.
+Checksum MD5 is c3d4587b3a51708d71d0afdbdade0a5f.
+Checksum SHA256 is c0abfc2d16c321dc7460a6c2c52eb85fd6cbd9212dad3e52792077f152ae8328.
+Checksum SHA512 is fcc1ad404ebb5314fc8ff39ad7500408016fbf9b00ec79930b8aa486166f80c3974a0012eeffc04b246170656c71a0e595435c5e1bca07369854b00e4c03b279.
+Checksum RipeMD160 is 425add365c6b898f15cb4dececfbb0c05fefe659.
+Checksum BLAKE2B is 1bc9950e65dc04974f34e5ba46c678ec8230a5b4c90c5b9a4eb23bd7355342e3fd052b05f66c0787a65a8bd5810e0344c365e74d57e9777197eacd29e557780c.
 Calcul des cheksums du fichier : .\binlcc64\Debug\Lesson38.exe.
-Checksum CRC32  is 518b372.
-Checksum MD5 is 47cc928b1386b0f4ab2b9ac1e534da19.
-Checksum SHA256 is c10a1126a03456aedb6201ab1b564097d49f70de9ab0c7be7af44d682aee9557.
-Checksum SHA512 is 0bbba5b9b529b4bd5613ec21731fcf0cc37bb3313cb9f7ccc4c51f449567796b6d73284b2417f9765827e5fcd5a4d827de3e414268387b4450d1b095a770ae6b.
-Checksum RipeMD160 is 68642cb3324d6b412568e8111f589bbfbaa8364c.
-Checksum BLAKE2B is ab63e2ea2924353bb83b61715b3912fc2a2e9c0f19977c4bd83642c93e7733cd1d547229b2816be9b3a0c45add80bf0f8b14b723e09ff277c140d9d194da7fde.
+Checksum CRC32  is 996157cd.
+Checksum MD5 is 60f8db863a50b13cd40ad6820eeaeb67.
+Checksum SHA256 is edd65f17a22c71030c721d57c6c74760870bc6745cef320531babcfd86d1a0d4.
+Checksum SHA512 is cc9469f96bbce17a88c3c03116ca62d578780a048c60766a33cb931cdc9b5c40c8ee6e7306ac0127b982fb365b2b6fdea18aa92918ae77c64b7bc81a7722c9ae.
+Checksum RipeMD160 is 4c41f88fd018fcc700504260ed6344aff81ac975.
+Checksum BLAKE2B is a748be9a82eb2b4de1a3e8e7d8bea89e7637d2fd701e05037abbbd1c50871991d0ef8d53f448925604cd202aa3907d00f29e2713972e4fae5f06bfa262bee4fb.
 Calcul des cheksums du fichier : .\binlcc64\Release\Lesson38.exe.
-Checksum CRC32  is c7e8f0e3.
-Checksum MD5 is e22703881ecfe41a7d129586cbbff7b3.
-Checksum SHA256 is bce00a8f66eccb6ef17cae41f5a8ab176376e1fa234ed91205f8414cb2c3c0a2.
-Checksum SHA512 is 85c20602ae63c91d352c059f661534c76bdd4b6e3013d6689a5e2fa8aa02a7533682cde9ce49569b4d4f02742d27a1b7fa8b69a9bab3fc52451d035f0c9fd622.
-Checksum RipeMD160 is 3cf68bee3bbcc7c88b0e48019c7ad3d7225b0f5d.
-Checksum BLAKE2B is 0830bdedcc407e80aa34d3366dfbc846e2692f136261f7f96cce182c053e2e51f0eab6350789be86c418ca36aa605f75d6fb67f70dbfb1626fff86c741acae90.
+Checksum CRC32  is 79b6a0cb.
+Checksum MD5 is 41f89b3f725256417824387fd97bef6c.
+Checksum SHA256 is eb15b35dfba2b24a599381d453d6955ba9525d485e49080f9153354e32b765e7.
+Checksum SHA512 is 9e1dcf431c27cf42a79fbb7fab64f4ca82e1916d6bd8c3dffc7ed48212b75aa8fc77397db3f2ec83244b032dfb653d2e8bafe60452b06747be172ffd641c9c9d.
+Checksum RipeMD160 is 854c5e5783c0c230ae22dfd9a8ca607d140a5832.
+Checksum BLAKE2B is af876b7169e32ebda0dd78a59a5698e0a19c52e317df291e0d7e3f26cdf931a4ebd968d0d806a40e01757ff7d1d4bba1d7672e2474387fa81535909a76ec25ae.
 Calcul des cheksums du fichier : .\binMingw32of\Debug\Lesson38.exe.
-Checksum CRC32  is d46c34ce.
-Checksum MD5 is 9622e11495d98d7eb1bca030c8494896.
-Checksum SHA256 is cec75f0ac4a88181e81321e96af33a9908f14ad368a89ec59e2bf7d31bdfe7db.
-Checksum SHA512 is 5b2200ae1a24bf7e16ec4b1e6abc3087f472df0b73efd5b2a0b2509bd99734ceff70ac06f90ce2aab2067e62536013a3f6e0485808382a729e2f2f114117ca56.
-Checksum RipeMD160 is d783aeaff667724b8ff1fc51e62c119cd9eef605.
-Checksum BLAKE2B is ab58117f6932cf070e1ebc0f867d8296140b23f9179ce74a75a910a20a96bca0ee71c5cac4831a435643d472c9130ba269976f7ca4070ef81de09d2e16396776.
+Checksum CRC32  is a1ed618a.
+Checksum MD5 is 600af9f5930ed3039f26ab8641affdf9.
+Checksum SHA256 is 3be3b8f71d599784a98736678dfc2e013d6c289c3d3b1bbb171c20dc67c8be03.
+Checksum SHA512 is ebd13145a531d8e6ae85a775d6b18ecba3e6f75d2f88ea03c82f25d5bb83f36a85e62b7c14d686199383b66a3d9c41cd4d1350e2064693f3cfee7247a99b2d6a.
+Checksum RipeMD160 is e31644da33029144798ed20c7d09f4ebeae79b18.
+Checksum BLAKE2B is a8547c9b200eb3a084fc67f97d8df029aa9e7d779d2f0503b6c4266437a656801769d8c9d9a952d6420d16a2807a8d234a50c5a34c0826cf23217e8744ee38b1.
 Calcul des cheksums du fichier : .\binMingw32of\Release\Lesson38.exe.
-Checksum CRC32  is ae1c91b0.
-Checksum MD5 is d731c0b0f2256b8e13ad1c2408837ce8.
-Checksum SHA256 is 5df2fb2f015cc509782e35c8dcb31fa86f9b44735dfd3e9763087dadd202c648.
-Checksum SHA512 is b538c8bc57f05d68511662f79ca66e77d4ace580adfc2a67efe6333daee3a9335c240bea61e88258549b6353d467bfeaf9778b985eb6754e08061fe3d47b4f37.
-Checksum RipeMD160 is 5dd9eead0ba049e40e97cb0aa2cea5f65049daf4.
-Checksum BLAKE2B is 255e0d83e3781cd73759e839a930df3885333ee88743d3706d188ca50b77b8bf9236fe471b6297625e4d060ab6c4802324f11b5fcc15723dd2bff0bb729515ba.
+Checksum CRC32  is f1a46fd0.
+Checksum MD5 is 6cafa74579d2c6aedb552f8e78018a24.
+Checksum SHA256 is db34024fd4b53c83a906c7786a0ea68966664c4409f6f4284a0914f76b8fe903.
+Checksum SHA512 is 1008139edd6835aa8d1ed29f35f62abae953e338e830f0a1f244b5bdfc5b74df8d065e58216973bfc70bc6816aeeed81bf29d13d84490997701c376ffdf4bed6.
+Checksum RipeMD160 is 90f72afbf138fda9a06d58da7c70434461bfa43b.
+Checksum BLAKE2B is bb10848ae949f679bdaeb610c59fedb6679819b6cf58ca62d8cfe3cdeff1d80744e8dcc7e2186df2d60e54be4cd2a9b8b3d378ac69721139f102fcc3b7280292.
 Calcul des cheksums du fichier : .\binMingw32wl\Debug\Lesson38.exe.
-Checksum CRC32  is ec9679a0.
-Checksum MD5 is 4c1950ca9ff82bb97ccbe3182c5ff22a.
-Checksum SHA256 is 3e1f44b08e5b4e0ab3aaa48628c310ae3e449c1412963eade2378bfb9a3f91eb.
-Checksum SHA512 is b0b5018134d71844c59adb0caaf1bf22501c9e327f48b8519a5fd517638836117c4ea5226e7ca81c9693cd1c8614ec8c978d0d3ec6e9da494230163176404218.
-Checksum RipeMD160 is efeb3a2fec6e174ad71b1aeafeae4fbaf5333d5d.
-Checksum BLAKE2B is a7098c7fc198690de4c687acf2b2aad4cbd89d6749c088f46ed3701429ce6df68063a2a9e2dad62bce43f56013c0b2c69a95eb616f07541660c9435791fc3780.
+Checksum CRC32  is 175ae220.
+Checksum MD5 is f770ac0d741b094d580fbf339d3b3fcc.
+Checksum SHA256 is f3f1d5188fbe7209edb40d59c15f8e880af25ba7015f781c1674840f0510e7db.
+Checksum SHA512 is a5f92ab4edc20f364cb79cda925ef2ad2ffbf6707776c24a8115af41668107f9a5cbee33e54bc59423469e79bb6d35ab1e003cedbda32c86f80852657da2293a.
+Checksum RipeMD160 is 67b3e3cc7c858e3cc3a20300fb1bafcd868a2c02.
+Checksum BLAKE2B is 8f2522b7ed35cf806d17782eb9c79aa2e8bb33e6a177f1178c989a9337464fe31d861d5ccdcaa720a8678fe52c9c0fa392dedebc1ef971c188dfec0178948e9b.
 Calcul des cheksums du fichier : .\binMingw32wl\Release\Lesson38.exe.
-Checksum CRC32  is 4888a5de.
-Checksum MD5 is 05a40f5915126e8e821cdc79ee709c6a.
-Checksum SHA256 is 87d9a4cadb8deebd9861ec5fd4039926ed141c55b61f1d3d21d99cce048a41ab.
-Checksum SHA512 is e4cfc8102b300c2dcc9eccf207205361ebd1552ce78a01eca119ac3280538cfffd2bca10b96f07b87de0bcfb4b342184ca44ba3e46a4eeabff288646fd5a003c.
-Checksum RipeMD160 is ec889edf94b827f8b5d433f8056c56a31ac5f248.
-Checksum BLAKE2B is a5c1827befaf07ad8973fd110801dd2052a9477efb1eee9a254185be4a5fa1835c66ed6d87dd2788f48a295dc2b54ff1beeacd4b2456d406f8375d6a443cf06b.
+Checksum CRC32  is 1cd2542.
+Checksum MD5 is ea3cb63a0f9f0205ea5ac2ccd9a4070c.
+Checksum SHA256 is dffb50c30453eef23ffd77810b41e7ba2f6a501a53d717209e57038405a3244b.
+Checksum SHA512 is c0d340f7b69a9d92d5b152a713be71ddb1b23a5d22bac74719b3eb0ef728a2cfa19dfa33834b8dfa3d4debc72a4c426216008d1639a8e982ebc21467e93eb891.
+Checksum RipeMD160 is 1cb2674c1e0b916533d58acc4edd1af8b000487c.
+Checksum BLAKE2B is 8a2c8836f7f5efba952f7d171f2875a349058f3400c2a717708e28344c3f6783a995144e3d86cfb8c587ac9f3f09c9c4d2d90514c6ba708e4362c59b18d705e3.
 Calcul des cheksums du fichier : .\binMingw64wl\Debug\Lesson38.exe.
-Checksum CRC32  is 16a86ae1.
-Checksum MD5 is a6c27ae7a571cf45e710ce2d2299e55b.
-Checksum SHA256 is 1ee4f0a6021cb4ae22f4382a60dae422cb92b103225e2c7f20aa3adc2b5d2aa8.
-Checksum SHA512 is e7962bdbb10a929df6b603ae0f7dc047e795adb093f15ad71c730e9ff379c6dfc7bf7fee721d2dba19e234659922185a229aaaf1fd28bb6fd798cca7289a0b3c.
-Checksum RipeMD160 is 5fe9575c987a55f49c2bf703d1b9ed0143154024.
-Checksum BLAKE2B is d261decf4902a784b717a135396e07c1c0cedd8b11a268a4c4dfe844a7276f556ba790e542bc07c838d287b34c63f83338730207a79050943b59bab4d47dc9a8.
+Checksum CRC32  is 99fd0a49.
+Checksum MD5 is fbd0f73f7cc88b8ca7c66cd038739566.
+Checksum SHA256 is 0894648bd57b22753e1538de10821ce14195093012f5cbc208c86b9e437a8f39.
+Checksum SHA512 is 5e9958b83d236f4d5d1cc61439c8b36f4df28450d29f66a6eed5efc56174164e9898c7659a327f71a8c485fe575bd650cb700006a0aad9fecb178a03a6796af9.
+Checksum RipeMD160 is 70b528e19ca58741c484b0b3c82c525e755c0e56.
+Checksum BLAKE2B is 46589ae6356af0ad09ae84c5a2fe77316c54718d3f7631025f45cee5cf4cc7d86f375566d5fb5ef1e9c1a9d6a148763c7df101fc0dad7a3ed06ec7daeb7ae6bf.
 Calcul des cheksums du fichier : .\binMingw64wl\Release\Lesson38.exe.
-Checksum CRC32  is 1c75a6ee.
-Checksum MD5 is 3d8241d1a8b8a3c29be3f3dcb43ba294.
-Checksum SHA256 is 24b30c2436de0e2a02ec181a3fdf8dd93d7eea330df3ac03e8cb9f5d40287b33.
-Checksum SHA512 is 20a1abed2c47c9e311147e150415c4e897198a8351db119ddf341c9740f2c9f75629efe88829053551b6afaa655085182f65dd28056df927d6eaf77e0c4c4af7.
-Checksum RipeMD160 is 26f70a5b464d0b5199932c341d7078899d61b2ee.
-Checksum BLAKE2B is 63cbd80bcc208bcc57b8c4cb31a582ddec4e9275170bbc13e80d02aa4abc2658888242e085c29d8d96dccec19d75a44b3c3c781c4c05b30fec1598d61144b09e.
+Checksum CRC32  is de45d83.
+Checksum MD5 is 87f98e848b631ae2bd4e3df42543538b.
+Checksum SHA256 is f2a43c2604ca18b5d0975d2e70f8b387b37e013af4173c730f894cea39b1b63d.
+Checksum SHA512 is 1fd8966b0b3cc359642ee8b4882b6ec519f0869e83f49ca81f3caeb5c7ecbfbd18dd1d2f53ceb4d57a6fefa9ea5b262cc86498c71588e04f955dc666c1e4bf00.
+Checksum RipeMD160 is 06a8c3468fcc50faab5d547d85b87743c9ed9475.
+Checksum BLAKE2B is b4f83f9a4c3625f811d55ae617c59ec985b84cef7f42bd4d460728363feda20d14b997bab76d1b0a4660a865ebd90c1b58b15e0d77a3daadc5409e514e05807c.
 Calcul des cheksums du fichier : .\binMingw64CB\Debug\Lesson38.exe.
-Checksum CRC32  is 1d3a4e57.
-Checksum MD5 is b97b883a5d2c34e55154632566ed198a.
-Checksum SHA256 is 6a46fbfceb77c003ccae9abff8174fd4bd91bb9f38af2d02c954ca35b4ea1ea2.
-Checksum SHA512 is b038549b5fb0a4baff13c5620c9ea3eba5cc8564b3e018859d727f48c5bb65e84fca32cfe9da8bf700c8bc4117a55f7dbb5904776bf410aa9c3fcdbddd822f28.
-Checksum RipeMD160 is c691d9d93c948b16c3e8a232f6ade74398562f3e.
-Checksum BLAKE2B is c59915f8d9cfb77a6f4d84edd7b30a3a1ff9515fee2a7877baba124be417171f13dfde58ae8ec87b2c4c837f290e8c3cec0c770fa09c9a073c2d9fc516263b05.
+Checksum CRC32  is 86142d32.
+Checksum MD5 is 973d0b56d72de0a368962dc9f3471ff3.
+Checksum SHA256 is dc1191fc71756d761ccf59fba70a2bac866f1dfc9dc79b928dec23821170514c.
+Checksum SHA512 is a81038592362d89236b4ec69cea91dc1210b48b164e054bb88b7e86c7cd1b363cf815f954271cc60c5af50ac53a687a56b46e1db132d69b2d91daab160e16bae.
+Checksum RipeMD160 is 51b99f8945ecaa3862ccbeac92b0b721f74c67c0.
+Checksum BLAKE2B is e88eda68389da2592b829b59032ab603c83d1d1c5c790738bd8c4e658ead8a8b626fd25c22c7f317bcd5a31d6c5af26f663bbb6a80151db63211a7234d16feff.
 Calcul des cheksums du fichier : .\binMingw64CB\Release\Lesson38.exe.
-Checksum CRC32  is c8e6653a.
-Checksum MD5 is ad6897aa80c76767b4d3fad8d88143c4.
-Checksum SHA256 is b8fc6aeecc24f32d778134957282fff6935c2a6305ed47aa666cbe14a54f0526.
-Checksum SHA512 is ba8330bae3361cf8d66f2ef4eadf16c4c55dc505fe68ed357a567acc1f315944fb9253ec10908b3927ba3967079abedb48a3bd314ec9d8030e9b03f18200d70f.
-Checksum RipeMD160 is 3c82c7b5e297eef4856a039923c3c75dcc8d5ea8.
-Checksum BLAKE2B is 308637a21abd9d2c57ab7f150149382bf8705dd84fb1a654df82308e8d7ea724e7e4665106fdc512e941bf971652075c769e314da665ecc845e662f6050c7e7e.
+Checksum CRC32  is 6f9ef0dc.
+Checksum MD5 is 425fda51a5ed2e6d50280b53aac21e43.
+Checksum SHA256 is d2e8be3f8fc87dce9a7d33fa6d8d2a73bfe9261d7be4e989d5e8aa34fc225db9.
+Checksum SHA512 is 62241e979101b188e881f7c494de97f90718c06d3650672ff7660ca80fff20fdbd10fce768ebdbcc70cefe620f22a7143ae53f032ce2c632129c4e32cc3232cd.
+Checksum RipeMD160 is 3cd582dce7b4f9ce4f30b8ff97f7f874b34b944c.
+Checksum BLAKE2B is d618a2d56b830ddc64b31f13b8600ec5174b8dea9d34975700e0ba80cd958c1bb53af326a8bea5db052dd54d88ab3b874fa8499d2820934bab5e9098595a70ef.
 Calcul des cheksums du fichier : .\binMSYS2W32\Debug\Lesson38.exe.
-Checksum CRC32  is d8f7170c.
-Checksum MD5 is 5e5cbc2dd83dc4ed0b6eec56a5630077.
-Checksum SHA256 is 2eb3a33fe24b5ccabe5d1ba2fb678696159c9e86351ecb76104028c7932f263d.
-Checksum SHA512 is 54bc7824f530df29ff5fa68085719e0786bf9aae8a18f45d2eccef2d8a3c590f56abf82dbbc909774339e60dfa5b541be265d97f5d22a4e0ea07e1f215674183.
-Checksum RipeMD160 is 9a8c26ad875711ff441edd43b96659d563ac60f1.
-Checksum BLAKE2B is ca5ccf992d74c1ba2aa82b4e5f9d31966eda029b882cc15b105784d093648c65aac1c47588d88227fc7052fcdb9cf0a3d1a834f015d12b03b788c3b97085851e.
+Checksum CRC32  is 87facfc9.
+Checksum MD5 is 98115f66875b760f939d15e18467015a.
+Checksum SHA256 is 241cb23c8e5ddc3b6dd5fe183747893ac4c056e289d1a84e2174589cf7c5ffa1.
+Checksum SHA512 is f9df3161c4ecc330ea3919592b5751e24d8d77a9f42850013d346d311b90ee4ae8e4c7876b53e1c3ba4f4529df171ff01c5b4e2ea1cbad0b19f9f44ad3775e2f.
+Checksum RipeMD160 is 86fe2948ab7b1a312aa4d85784346dde762ccfb3.
+Checksum BLAKE2B is e0f5f37bb33bd53e654a1b089cd5c62e124d89900d505d84dc43089fc7d4be314d721a55644982d546ba40cdddb9bfecf17116e2a844dedea552a8db13616a51.
 Calcul des cheksums du fichier : .\binMSYS2W32\Release\Lesson38.exe.
-Checksum CRC32  is 7409267d.
-Checksum MD5 is 9b8bd2b833ef134dd0fb3b84adfda91d.
-Checksum SHA256 is 0751800ded9ef0e7ee9a9b991e14794cd51df2def5294ad5702ae84b0b06b1f2.
-Checksum SHA512 is a9848ad62a34c5fbbf6e2956add2af2fd46868147e75614a8106c17dbf7038a6e6aaf8b78922e588f3549f63ae5747ff472485603af576a6a08b70e08b892e1b.
-Checksum RipeMD160 is 8956c6f295b6863b8272699dab9ca68a856ba9ab.
-Checksum BLAKE2B is 04e8d2da3ee00757c83f9453748fe73d92e5a98d5e47c138d65cd235f4d2f0bbd165f2a7b1dfeb3b379996a57904e5878785e3570cbc0e4f03c9d2c6ac688686.
+Checksum CRC32  is 1ff2bf15.
+Checksum MD5 is 4639a3b173e6b95baea2c759bffec263.
+Checksum SHA256 is b726dd969c8cd8a7870f01b6da4bbbe6ad3a3a1646c21a69653a94680f5962df.
+Checksum SHA512 is f321d2deb471eb7504a55c3c4b3a6f122e2bdcf5dfe757e83d4a32690b4cb5d6bf7eb66e8ac8583dd270ef3fdd451b21170c839209ebc069b894b083ee75b2f5.
+Checksum RipeMD160 is 1b793244621652ac4c16e4b7ba272d5d470dab97.
+Checksum BLAKE2B is acfde95b1fc9e6a4960ef9fcc090e936133d2da560727368d41f2652cedb03daf8022dc30612dc82598dd98b362af02e03c848001a5b1b3cd17a5b11445262db.
 Calcul des cheksums du fichier : .\binMSYS2W64\Debug\Lesson38.exe.
-Checksum CRC32  is f98a220b.
-Checksum MD5 is 0931c665b86b6658f1353a95894968d4.
-Checksum SHA256 is f001bfebb666f9a4782aee60ce5d3b4da295da1a5c7aca5a4de0b00ab29edd42.
-Checksum SHA512 is 9afd0f85b3bea402b2ab65cb3c28b86dd80cbbeb54b17b6c824b99a408ba66648f56cff7183432f79a3473cbda806e0fcfb0f4e3a5b38b3d1eacd482a856d256.
-Checksum RipeMD160 is 536e17601773add080291e1f9d7aa61b08eac96b.
-Checksum BLAKE2B is 4f31e16edb5266018f0fd3107d2c043a987ba1675df7d0d44fde897795fedd659fb897e548cc19d962970edd24ad692cbc1de3c294fb09375ea3b6ae6d95230a.
+Checksum CRC32  is 2ab141d9.
+Checksum MD5 is ed7bfcf19d4a0312b73d4b85976b2b32.
+Checksum SHA256 is 07a95f099c27eed16290d2bb7b9cf57320314e8c2e68633d160b3f096a711ef9.
+Checksum SHA512 is f542a9fc4981aedb89322b1f115ee5bda620ea4ea274b8ebc3fb5189b67cb9621ba34a664cb2b625ac63871a612f43f701146ad8a3242b80be9cb7ea640a8779.
+Checksum RipeMD160 is d8ca1d22d0c7a0da1798e7ac7eeaf20cfae19bac.
+Checksum BLAKE2B is d7b14ca8ff636c863ed842cb929bbfe81fb48b8b90add490f4910aac96c94bddc2a8354dd8fdc29c15e064f18f72c61d98f8eef308e51cf365f7597b7e8985d7.
 Calcul des cheksums du fichier : .\binMSYS2W64\Release\Lesson38.exe.
-Checksum CRC32  is 5e2c6fe0.
-Checksum MD5 is c06e25c65d12a6d2c02e109f5429f2f7.
-Checksum SHA256 is 98ab02b0d3ac6fb1ada2cd76551cca9bf4b75e7f24d405ea0cfd84e42870ef17.
-Checksum SHA512 is 8790e091da9935c88705f5acde0bc8d52acd2ddb4edaff664f388a9fe41c6a158854503448f11103b0c63d6e636e2ce0db1985f542d4ebd1498f2445b4ceda56.
-Checksum RipeMD160 is cf98711a1add3a7ba668cf174a45a852696e9a23.
-Checksum BLAKE2B is e87468c4c0e6bb056fd26da4522347a6f46c620d07842451dd86c9a3618aceccaf55a67ae38110759447d58f86481f0a9b156e11344a2fd4c1b1339425496545.
+Checksum CRC32  is 60c6ab28.
+Checksum MD5 is 635796ebb99c621627f63099cb0e76e1.
+Checksum SHA256 is 3db82e3b638e87cd2c0948a1f9fb84442214a43c46fe516ee231b5a43cbdb773.
+Checksum SHA512 is e5dee21db83c230bd561f4aec7c3eb2ca46c5429dabd4d9f68091eeae3587a32195ab3a3d683ccf61e802674b3d91fbd1fe50ce33391fa2caf538ef5527346b2.
+Checksum RipeMD160 is 36b45aac25b6c82e59e20eff12d4d45d09223bd5.
+Checksum BLAKE2B is 84f00b144365aa8caff3b53f6dd0c6f2abebce832b26a2670add897aa8c1beee9f552f982eca6fb425c1ab4e0ba834587f76b81a7193f25f2c137849225c1fa7.
 Calcul des cheksums du fichier : .\binOW32\Debug\Lesson38.exe.
-Checksum CRC32  is f5db05c4.
-Checksum MD5 is 7253066902f282da2b3ffee7b7d687f3.
-Checksum SHA256 is bdccd48187911ab1b97e457a5ef20785b96947653af263f79c3602ce68a16e23.
-Checksum SHA512 is 639b77812c49040bdde02711c6a35e43eaa79aaa12330ad07b0a4eeda122a518994f80b60de272a4d996adc1658c9fd32aa863d3a29ab672498588ec146dd1fb.
-Checksum RipeMD160 is 1584a21b173665d0bc605e52d232c3021dd60137.
-Checksum BLAKE2B is aee239255fa6d730f5b75df1de87ebb1036fd38bbb068f6f54dcbec39df8fa204fe619821beff066456e5e8bf56b6e736b3680d236cf73caad5985a15a117e04.
+Checksum CRC32  is 20239d36.
+Checksum MD5 is 816d635053f3fd73224164a67c61f5a5.
+Checksum SHA256 is 06806ebb6db872d3aa37a7524dc1810a46d915c82babec1a96c7ec22ab327716.
+Checksum SHA512 is edce1cc199311963c7da40a834b4dadc85cac6d1d7c7cfbb5cc9734f2a2ec519be5769297b64252f2c769373b96156eaafa6f9b1bd96054c45fcaf80c87a07f9.
+Checksum RipeMD160 is 8a0ca3d000f6ac08a71e55018c7e510ef259358a.
+Checksum BLAKE2B is f8119b999317092bd29bc90f6525b27d6030873945bb90860dd0c364abaa567f37699eb89709d25fe2823e93959bfb4d790ded64f4dc95f8e3cfb143935dae87.
 Calcul des cheksums du fichier : .\binOW32\Release\Lesson38.exe.
-Checksum CRC32  is aaace654.
-Checksum MD5 is 98437bb57f1f64ef0081adf1e24ac482.
-Checksum SHA256 is f544ef366ec2dec875f079db201a1a2dd5a55d0d69aa820efb77521d949ccc48.
-Checksum SHA512 is 1a2bef201361677d9fcf81e9954ba29dc33aa5547c9278a19c2041922cce5df1231bcc81e5d4d7b2d83729940068f9d2b88c5c0eb48cf2c73e48ef1a63a924ad.
-Checksum RipeMD160 is 662fa6301167b5a51dedd320032dee2fb6d368d9.
-Checksum BLAKE2B is 4e872c00a44051c22fb019a1188950457254487b417b260180af0d30de6be63393356cba98c8917300738ccfbdb043b547defae9cd6a7aa48b38131e16c35bd1.
+Checksum CRC32  is 7f547ea6.
+Checksum MD5 is 2369053e19481d3a3b82533aecd38701.
+Checksum SHA256 is 7baaf5879b516730182dd4e7c06af957f098940439d095b54a62c64a75d4baa1.
+Checksum SHA512 is 28a2bc43c7c01884c349e63f003d94f67e887678c6dce26c6d97a4db2c7b0797b0fa8486a38d015c8590046a5dd5b3e0ec2d9c4b6b46ef2d17856f8f9d4dbd80.
+Checksum RipeMD160 is d9105d4ca8134a059dd944eca38cdd5c7c7a6108.
+Checksum BLAKE2B is 8789cb847084b699937f52cc05e018e21acfa17cf944a40ebad510f603d0f41cc25d5f5369d56cc35d4585e19199aa9612f70b67482f6e796595d3f052f1db49.
 Calcul des cheksums du fichier : .\binOW64\Debug\Lesson38.exe.
-Checksum CRC32  is 180774f8.
-Checksum MD5 is 5887e872ff97b35778bcc3ac724c7308.
-Checksum SHA256 is e9d4ebe0790faa5681ca8f807dd232d1cfd6216d6c0e91f6e624701cb9c47fc9.
-Checksum SHA512 is 12f50a3ad6f893fbe3fccde82a0d26ef069abd9561de38fd777e3ec9ad31eab50a9001da9f5ab5fc4ee14281ac0758523445116d0bf18f4d0c34435d9d635d5b.
-Checksum RipeMD160 is f1e9cbb84daf4f1553c28b87218ecf0e62c3457e.
-Checksum BLAKE2B is d94d499df4367fac993712b8bf01f09740b7a72bc78e69dabb7efd99d0a87c8f56767fdfd6fd59ad82877f0bc50d662111937557598e9ce83f1e6643bad71aad.
+Checksum CRC32  is 7f042318.
+Checksum MD5 is 636826a2ec1e9a598ab6b429d75158cf.
+Checksum SHA256 is e8434d08d4b4ca23977d3bc25e2dd00b2abe7c17d4dba357a2ac048441d9571f.
+Checksum SHA512 is 963ee56ea92184074f7de69a5d292ce20e9fdd6fc9f4a22da3ba1242e9e6a120de7153206fc75cfafffbf000e417322493d840577471956559365ab862c88073.
+Checksum RipeMD160 is e213069aae58506cb708976185c9feb4ab080e7b.
+Checksum BLAKE2B is 3726d4ccef00bfe41f401c93144bab9c3154ea6ee7257badbb7f34bbad9ebd6bb818335338aeb20c11578eaab973983faba6805ad6d06b367b73db89b9c64be9.
 Calcul des cheksums du fichier : .\binOW64\Release\Lesson38.exe.
-Checksum CRC32  is f99f5048.
-Checksum MD5 is 0c4b6106b7f51e699d13a7b145ee004d.
-Checksum SHA256 is 29e53e6b6b8d74523ed63967b60779d1c66e87dc50fc7fb8d705ce7268c7409a.
-Checksum SHA512 is bb5f4ca8c9ea2cc719cc3876a76a12a90c6b0cf00199f35b54185f7dc9892764a080eb3652ee088e9b338082f9c337aa73ab0740b8b8f3a6f98cfd494767367a.
-Checksum RipeMD160 is 3206a27916d0da6217fbf8de17aa5d130b6d0f11.
-Checksum BLAKE2B is 1260c886aac876cfb7eb5ff308830cdd32aad1cbc092828c69ed664c470010efe1de249024d123affa2cf2def0a15e0f591424bb73733b528d4b262f587cacb6.
+Checksum CRC32  is 9e9c07a8.
+Checksum MD5 is d954cf555419123aadb95bd85b0d1514.
+Checksum SHA256 is c975db32b3afb7579e5f1c788383879330c81826e4a68ff7a219a765b41a1c70.
+Checksum SHA512 is d05e10fd3d8ecaf5559c00fcaaa60df2da7dac7ed793487fc37900754fb7df1cf8b5db1c2848e9d0a4c555fd3b833e1b0493f2cf9cceb8f9ae91e3b0832c97e8.
+Checksum RipeMD160 is 4618c63403d81dbc5af7e4c9ed0b9cd5773cab61.
+Checksum BLAKE2B is 24eafe6b9867f356394a145e1a9f57930b0c12e6725a6424958924c9df67e25d3777a194da919e8aef67c613814fe81d3b63bf9623fb7eb60e152550f6e64376.
 Calcul des cheksums du fichier : .\binPELLESC32\Debug\Lesson38.exe.
-Checksum CRC32  is be637dc5.
-Checksum MD5 is 2b2977077ded387e580b79fb3ab9e5fc.
-Checksum SHA256 is 6df891aaac20b44ea48bc3280e73a46adf10e97793dc3e1db499e136db68c57e.
-Checksum SHA512 is c8771a412d36d2cdd14ea201a0262451e730025a1976955e797fe815276422ca21162648a025b9204b2ce20f0f09e58564ef00bd229fac4ca24179ca8d724fe4.
-Checksum RipeMD160 is 9cd52a7358094110611ef9b0966a91fe1a625396.
-Checksum BLAKE2B is 40a7eb75dd8181487b83c6be83905c3609d39bf0aa45ddde570b087e6b1cb1f31754c578413e2ae0836c8f8406a75849140675405bcee2ab3eebb4c987025a68.
+Checksum CRC32  is 34ae843d.
+Checksum MD5 is 0201d810dea4b7536b4767b7ab8ba4b5.
+Checksum SHA256 is cdcbeb3066793afa3b439603f613f446809f0b325b96b67b3c7a26ef6cbd3c1f.
+Checksum SHA512 is 75b0821ddfc9a7ee482075940bf39a3f4a1031ee260398017c52fc7ebae3e7284ec4db5b13a382f1faefafbce00a5b0ad8f3f2b6203cf4b6600ccd04b510af22.
+Checksum RipeMD160 is b82a67421913123c52bd0fcdb887386ee5b08aa4.
+Checksum BLAKE2B is d9a2ca15cdfae43d1df760a7a40883e909bb19139e0f79ee9abfefa5a59db54f8b1ee0730b3989696182216b6dffc7c01a87d70ea350423a3f414f0b6177ef9f.
 Calcul des cheksums du fichier : .\binPELLESC32\Release\Lesson38.exe.
-Checksum CRC32  is b3e66551.
-Checksum MD5 is 2983336ebedef2201109fe660839e46a.
-Checksum SHA256 is 2463c6a41ccc247ae91e5fb0cf510e2b74ce42893fc2756deb2f346934abba8c.
-Checksum SHA512 is 35ac371ce8cb699d428160f85793af86f6e9fc5e57b5158311815058f01230bfd3077dd087d11779d33e63e9e06cc1c7ee409fa68feb4631b797c550131875e6.
-Checksum RipeMD160 is d1bc03d5977b3496ba9f2496edeb1901fe8cc103.
-Checksum BLAKE2B is a184262922ebb8a61b4e4bf0c8dda17cf028f9ec6f7945ac91d857154eea74d2be6e9fc3ed9529b5b5ddf6a6ade6b2b98767849ea34554817339fb65221de3b1.
+Checksum CRC32  is c0f9ad93.
+Checksum MD5 is 869621787b0065d6548782fdf030db02.
+Checksum SHA256 is 79b0e6d4a117fdc02e471202a90abf11b16f1e896127549cb10a954a4d96eefc.
+Checksum SHA512 is 7a14324f7d3d8fc3920eed651e514d6fd9eef9589672047ce982a1313fd0d3dce57005191cffdf82c86a3decc258fdc08b4b851383fc2fbe48152c48ec25a4d3.
+Checksum RipeMD160 is 0cd46cbc24a75d35f4dfd0bd1edfefdb69f0d331.
+Checksum BLAKE2B is 3a7693d8268baed40c5467d72d467be99e8b619c0b0bbff7821a66ac322fc98e3a4c2300b09eb21358f11172cea9ce6bb73acc83db37ffdd4e341c6870e828ab.
 Calcul des cheksums du fichier : .\binPELLESC64\Debug\Lesson38.exe.
-Checksum CRC32  is b7206a7c.
-Checksum MD5 is 57ff7c59a93724cebf4aa28f2de58c78.
-Checksum SHA256 is 1faedb2832daf1d0468f48983806f651f9f82ed94592b62d416ced3700541497.
-Checksum SHA512 is 9d9b69ff3c8e6258b5b6cf135f0b89d5546da47c4107cf44c88b6cf9b2da4a8f2139c6c21961364919559a5471d91b65f9c803f273f5d8f0b3e983f495b2aa8a.
-Checksum RipeMD160 is 9992635e5b1224a3e1b7acd4374b03382bd271b7.
-Checksum BLAKE2B is e05f460c3905c8b488956e547091c08aae988c65e89d0d76b062c2abc3bdce358de3d0415885391c806c37779f3f4f857bb6a74ed43376a6a04e1f3ca611ddbd.
+Checksum CRC32  is 5d9d594.
+Checksum MD5 is bb9c81f5a10599d1ee519ad0582fced6.
+Checksum SHA256 is 9452bde3e0503b34efe68c8c63ac67a05e391594ff3ff120ecda21a510175429.
+Checksum SHA512 is 0f64d38a530c6038c7c70f311a39b9ca6dcc661bb5e17738367ec9689eb7617acd6fc4262cbcc732e7f95740345fdc81be93d32f2662710719f7520994a910f8.
+Checksum RipeMD160 is 036bc50bcc6ddc5b2dc246a5a797a70c80917702.
+Checksum BLAKE2B is 1784476d99c71e692a1559bb93eddfea32e4f1076009a0adf1e34ddf55ded75d7e251f24f9923904c09ec89f0aac1ea62e12d03244e31c8f126db834e9254751.
 Calcul des cheksums du fichier : .\binPELLESC64\Release\Lesson38.exe.
-Checksum CRC32  is e45388ea.
-Checksum MD5 is 689650efeef4bd261015dea93bef7ac2.
-Checksum SHA256 is 00bebb347b76e72b191cab3b1fe5e913b30f66e30bea6fdf426dfeb7004ad1c1.
-Checksum SHA512 is 79d9d0b2177371f648ed5be4928eb8afebaac50d159e212445040ae809fc1cd1a8d53e658d22d51f36b91188f54f84847b8b13cfc650729680199451a4583e0b.
-Checksum RipeMD160 is f174c7b18f8c65a8e1994a637ede93e59198696a.
-Checksum BLAKE2B is f20d89d3b6ef69a3571800d748968fc0056e309d0f481d02adca743aa704c420e3401e5c13f465628b2ba317488c461ec1710133f78e31bd9db9fb7d0392ba33.
+Checksum CRC32  is 1a8ea88c.
+Checksum MD5 is 62f86ea3d452eee5ef94db8cd7b2357a.
+Checksum SHA256 is c526e074e829975f2eb30d054843be63ffc720dea4479dec8df1accbebd8ec3a.
+Checksum SHA512 is d5973c3ad05ca0509736c3e49a715c288176e725ecdd82ea334465f23f9a57a380ee7e96c0272c2c1ac42a77e5af0142ef5b7e9b0a0177553ac0cc23d51d8582.
+Checksum RipeMD160 is 29049e7c530f8d85aba8ea1e2ed5aead0eb7bfb4.
+Checksum BLAKE2B is 85d0bbfd509287464c09b4761e85f949098bedcd7e5b827028d133a0a3e6dc4a2c0c5bd926f5f21bfc28b2b27edcd2d87982f9a1c9085a9d4869f0593993926e.
 Calcul des cheksums du fichier : .\binTDMW32\Debug\Lesson38.exe.
-Checksum CRC32  is be740829.
-Checksum MD5 is 44f7976eefc68f7fbe18247508e4451b.
-Checksum SHA256 is 2633cd9a104b8e4d7779319884156920b884957d77359bfddb6269c28df5ea3e.
-Checksum SHA512 is 92c89b3f34f1f0b2fb8be186a2f936d6d0243fe63ac78da11efdac246597558a5aae56f625d74b0a3a626c70a7850c00a52d8a961a9ee148a859f48dc8ca52a0.
-Checksum RipeMD160 is 603e51810d00ecab3c0fd52cb2b4bb4e91e502a7.
-Checksum BLAKE2B is 762971fa2b536942b20ad4895a82c75109b322d0a228a2d1d9af09fdaa24ded80c1cd125cd702a29f6d195d229e3699f78dedb7327422366add5022b36aeef7d.
+Checksum CRC32  is 17e75622.
+Checksum MD5 is 36cbac2fb093f735a3097e1ba86d8130.
+Checksum SHA256 is 0680bfe0711cca3fea9ed3f563107f431342c4e70617b97706cfba39cf7ffdd8.
+Checksum SHA512 is eb6fe9731194de058ed01698e39a82a73e42fdce077f52ed4e26f42e66176cf0b9ccf8bcef81a8f1f810c23b19a31d7786448b3555f2a78500b9a9a06aa9d161.
+Checksum RipeMD160 is b3f9c7c00dd5532314cc7c01e889fdae8abf97eb.
+Checksum BLAKE2B is 5061964c76041c7ebd7d12006af2d789dd8876f124e3b8bfbe83ef313f549797f766d86c86a403bf9fb4e137e51b87797a4f667999b9b338037de0bb860cfcc1.
 Calcul des cheksums du fichier : .\binTDMW32\Release\Lesson38.exe.
-Checksum CRC32  is 90bbcac0.
-Checksum MD5 is 999deb18b6bf69da9d2ec31269e0014a.
-Checksum SHA256 is 9d6a2dfaea0e428bc2932693683ff93d93f77253eb917ec827e3bb8b26a928cc.
-Checksum SHA512 is 6d47243a8ea85e44f4c18c5e021ccbd7230a7c8bc4f9d9ae52d142f928de2c2d414d0d3a31893d7a1c28d01ecd7df8d03d98b7bf6cf42f7b388a2cf698cd94a7.
-Checksum RipeMD160 is 7ffa7a366e4810a0a335e949ac144193cded2ccd.
-Checksum BLAKE2B is 9de8df1bc7431f1cd46ca91fdd534f53c0085923b8c75864ef6440a62fbdc31d3e2db0efb0a04f4309c47cde0cf7cd2711cbcc64b3963d8c143d8563c02e842b.
+Checksum CRC32  is 9207718.
+Checksum MD5 is 60e115ff37950af183f3b98095dbfc1a.
+Checksum SHA256 is ab68e33834d799ca248f6ea8250d900306f80c2711f61dd09d358b5b8c638402.
+Checksum SHA512 is 1c7148c62300c0c78deeda7a5b5a6c9fe5ba0400fbc300e5a61dc8911f7a790eacdb2f2a50e4aadd0b6b269db7fcd44b17d70b0f62a48bb64883ca244d6808aa.
+Checksum RipeMD160 is 0c30dacf4a0e07bc903488c0fbabcf50c82355d2.
+Checksum BLAKE2B is 81bf763f0d6b865e0d204b6b1392cb31e52c5ac284546d605a00b9ecacc2d6e463fa9486e98c8572818e43b0e879b80e22aa313d006c379e8babbc4c8dfa5845.
 Calcul des cheksums du fichier : .\binTDMW64\Debug\Lesson38.exe.
-Checksum CRC32  is cab7bb61.
-Checksum MD5 is 000cccf869dd5d4219b3e2651475d4be.
-Checksum SHA256 is 402559994114c10cad3246a324b38c0652d040782dfaaf1e687f17c8a0607828.
-Checksum SHA512 is c94a13598193f4489333153cace684166feadd84f85991e6deb0785684fc8a412f95f092fbc0d4fb5091e8ec99e206910b69908d1760775c2fce462c071190c7.
-Checksum RipeMD160 is a51fe15e492a776afd23fa429b969b009ee7aa1b.
-Checksum BLAKE2B is 3cd724fc63cc715b561b021dd20fe9b5e72f2315daf865796de14d091e3b991b08f3545c741af8468628f31cc594ad3e3593cff5825f03e239f9467de495a88f.
+Checksum CRC32  is 2fc235f3.
+Checksum MD5 is 590d2cdbf095ef7ed49af55f740ce331.
+Checksum SHA256 is 1d63aabc8c8703af1c560069fde309a9184227d5099c0393c525ac614b03f267.
+Checksum SHA512 is a2101131256754e0714949a3d4c7c227947c011607f5b651e8380dee43ba0b52ec8d7982947ccb5e6a736507d5372d580c6fc1155215ab5eb403748137b913cd.
+Checksum RipeMD160 is 4a27f2b70f7fcc0e9884c0231e839fb28244b385.
+Checksum BLAKE2B is ef19e413e1652b9bd6d995b9f934be77aded03a62fc88cc2b5dcd6730e77273a349998aba9c67ca220925e15b2e945a6e00ea568f0490fedaf2b458de2c6d0a2.
 Calcul des cheksums du fichier : .\binTDMW64\Release\Lesson38.exe.
-Checksum CRC32  is 84eeb240.
-Checksum MD5 is ab8882bb9f2325321b907ecc091340a0.
-Checksum SHA256 is 09eeb894bfcb663f2dbc1f13de7f1a2320d95734068bac677b3a05ee2c9d744d.
-Checksum SHA512 is 17b6ae23736c112389d92a780372eec4c453247327198c4ea964fdede72abc98bb52c49198bb4df22a5c8283f21a4f79bb7dbb6bea14055af88bd5f641967db8.
-Checksum RipeMD160 is 039871364ba83a90e9658067134bd1fe8d94928a.
-Checksum BLAKE2B is b496d3641a206d2f60a95a9231bbd8013614ae1b1568330f5d139116679f8ce1894ecaaef1ce0d179869e2886b9d1d5fe5388c48e76081692224a98d73d3e2d7.
+Checksum CRC32  is f83d2d65.
+Checksum MD5 is 110675191a08d602eedcfd76b6d4f091.
+Checksum SHA256 is 04aae0cba825647f2a6231313c7363a97e65f53d7935a9d9b2baaa304237b481.
+Checksum SHA512 is 4e5ebb5ab4f759d4b306fc096143caf7a1a5b5665051c067b980b92aade2d56d3b1140e0d486aab86300cbb4b3dbac3c7692d7d557bf024d3ee6781d4feec1ee.
+Checksum RipeMD160 is 2bc163276a62e71ede2919ed04fb07adf5bd32d9.
+Checksum BLAKE2B is ebcd07a3e0aead1e6f0bd8566707c08095960574343196a432ac483dbff85159247d27eb260e5148355fd39b2be7a2a58174a0ea099bdefc6d293a9fefc281de.
 Calcul des cheksums du fichier : .\binVS2022X32\Debug\Lesson38.exe.
-Checksum CRC32  is eadfaaba.
-Checksum MD5 is c0a5ea296a1bc662928ff61107467228.
-Checksum SHA256 is 0b4dfaecf913dfaaecba284341b9b1d16739877bf2a709a94ec1f02c2ca3ac4c.
-Checksum SHA512 is cff1af74a1b8cd7b24e68d70726664c3c21dfe3e8bea51f877e562abe1861b21eaa9ef0ab0bc3a311b5f2020d831007a88aa533e27a790d5978e7957d7ea9b29.
-Checksum RipeMD160 is 4881bc3649175cb74b5f25b763e5456b185aade9.
-Checksum BLAKE2B is 89a761248a81abbe363f167b105546d902dbfced407aebc163ce159559b75e228b4e26a3071461a596546fd523edd384422f66ad3597c2491f3d6bdb77bd34b6.
+Checksum CRC32  is 98e04218.
+Checksum MD5 is ba2e3d9be8c1e8ebc061e7b8e36ccaa5.
+Checksum SHA256 is 48d6f8882500c2802260700047e6c3c04f2dcb736e7b7ba866b1b281fa0aeede.
+Checksum SHA512 is 5f1b94b11362d3a434ba056cc762e762950d31bfa66b6c906fc7904ab6521e482d505f75cf19eecd9522312a7e6bd541f536e8897a1f297905e2567785de443b.
+Checksum RipeMD160 is 7cc0210639079e502d86fb39201024fc3acb875c.
+Checksum BLAKE2B is 98929e002f5d2ab30567e06338b169770395274d3f848d92dbc40eae0c6cb4805648d99d0ae258c1fdc36e8382f45be327c95acca224cfa84d896135c716c50f.
 Calcul des cheksums du fichier : .\binVS2022X32\Release\Lesson38.exe.
-Checksum CRC32  is 159a207.
-Checksum MD5 is ed54e08edfe69245823c849f32483466.
-Checksum SHA256 is 17742e93ab8e14c24b8e05d9b07205fddca4060974a4ab4c6d0ace6c42df9dfb.
-Checksum SHA512 is 44e8515bce5314bfa8f0d74f2c7e39dcd0e450f326d4b320bf2fb0073ad0eac0547ca60f2de5c200623a652a760d1cb4113fd5546727e1b085193a34347d9463.
-Checksum RipeMD160 is 2fdce43f58b3d850f9678e444241821d0cc34e74.
-Checksum BLAKE2B is 3a587150b48c33ef56a7652d51cbcf639ce819c23971f5953c897f651b2dd3dd347be6fde4992b54d742f165652769ba1d5d435d4e442238a525849e9ef8bf6d.
+Checksum CRC32  is 82dd85d3.
+Checksum MD5 is 03959ff2817e30684cf196432f4ea5fb.
+Checksum SHA256 is ecd816020da07785cd44cda8a35efdde817c6390235226b4137a043f38d7a509.
+Checksum SHA512 is e018a94e1c7f742a4a4a487fe9a06b2d5f4083758aa137ddc3979c4cbc33012bbfcec3eddbaa461803ff49aa4b34ec4cdbfac65175e960a895569bff76ae7a7a.
+Checksum RipeMD160 is 9849d42cfc904ae040a2b7214309950af5bc2c71.
+Checksum BLAKE2B is d945f6a3293f5d020b1a5e6276893d2908cb8503d0e135274b47948636434269ce3e970b24b684133fa38eabba6bf4ca60f8c5f58f0744a847fce293bc47c08a.
 Calcul des cheksums du fichier : .\binVS2022X64\Debug\Lesson38.exe.
-Checksum CRC32  is 83b81e09.
-Checksum MD5 is 70e8f10e24963a1c6c6067b77592454f.
-Checksum SHA256 is c03192f1db529a0ef15f17c9e19cd2c79cdfa653de6e408f39e0c53dff90efe7.
-Checksum SHA512 is 8de105ffbd9e6ec9eb1469eae71ba2b02fd96e0d1ca4a6720e328e5d0a226e0ee0c108f707dbaa1a006b9f5339fd75c7ffabf47bc64dcff0e6bfa0ec67a0febb.
-Checksum RipeMD160 is 32491140697fc306546d05e49fd55fecd1330ada.
-Checksum BLAKE2B is cad24a9bac9f43951b35144bc4478d3f4b266738c0624de1bdf08e6c7275e9b352f3214cf3a813e69c2c4d38991ccac088371ed27342b2ee9d1349006a8b221c.
+Checksum CRC32  is f95ebe56.
+Checksum MD5 is 62b8a6687500c4473c6f12dcbb35c7e7.
+Checksum SHA256 is 51fec1e32e66d2e48822ba026b8937011787567727d5561d0a5ffff428a25096.
+Checksum SHA512 is 0bc559d277688ebd7dac2c0f7efe3a575ce08db8c1c5f7f1547f8c31aea72549ce8d87fc5b5d529605f65296d2493673b80eb2f06675e385976b5c56cfbcd3a4.
+Checksum RipeMD160 is 24aa420b923714cbc51a9efa79b75b22d4631924.
+Checksum BLAKE2B is fff32bd9ed883cbb82b1565afde12a06b33e79450b288fe029f88997337086dde1113db681e2daa5f99f67520e4daa591384012e1b1cb096e3d5beb79489120a.
 Calcul des cheksums du fichier : .\binVS2022X64\Release\Lesson38.exe.
-Checksum CRC32  is 83ef759b.
-Checksum MD5 is 81a86ed360cdfcaffbc0c983e20a2e17.
-Checksum SHA256 is 4af97036d9806914cda20e70a965d8c79930a24d01c415faec97b94a27e020a0.
-Checksum SHA512 is ec8b53642adec7663a58a1098d9448b65b8130a784520b9fc14ebf471660cf6311bfb3e8c56ca6c72118029bcb48871b218a286b47623c0dc8d2239775bca325.
-Checksum RipeMD160 is 0e4a1005dd584964da33703a8910729b4789748b.
-Checksum BLAKE2B is 9ccfcd349e9fef26bc8a722a59c3557a1410c1447cbed9413d450b5bc2955ecf3691da58b1967c751336d29bce87c93c4e610103d496cfafc67e5c48d2d93f6f.
+Checksum CRC32  is fd769aa6.
+Checksum MD5 is 64073bb82d1c6327e7f22db1bbe78211.
+Checksum SHA256 is ffe079695ec1080f188e22d55ebc5b90c94e82b1cac0ddc47d8a74b0c4a93960.
+Checksum SHA512 is 3dbe58f84d2367e88e1d81cdfee617b2ec68e5cca644b605f57d0313b90b41e2f198737577a2279eb2fae7a9a944f91a069070351b6ab36ac5d092cb9e71a873.
+Checksum RipeMD160 is 26f0bd597de2ebb73e832ee4fb7ba5924c43a1ae.
+Checksum BLAKE2B is befa8c114facfe588f0030dc0ebbd996304324f2ef73c5e77e936f8b381026e69df8ff1dc64b687ac45dc8d24e4e257405796d49f713af1a587bd9ad2a15f83d.
 
-C:\src\OpenGL\NeHe_Lesson38-master>set mydate=23/09/2022 
+C:\src\OpenGL\NeHe_Lesson38-master>set mydate=24/09/2022 
 
-C:\src\OpenGL\NeHe_Lesson38-master>set mytime=19:09:22,46 
+C:\src\OpenGL\NeHe_Lesson38-master>set mytime=14:54:03,13 
 
-C:\src\OpenGL\NeHe_Lesson38-master>set DAY=23 
+C:\src\OpenGL\NeHe_Lesson38-master>set DAY=24 
 
 C:\src\OpenGL\NeHe_Lesson38-master>set MONTH=09 
 
 C:\src\OpenGL\NeHe_Lesson38-master>set YEAR=2022 
 
-C:\src\OpenGL\NeHe_Lesson38-master>echo Current time is 23/09/2022:19:09:22,46 
-Current time is 23/09/2022:19:09:22,46
+C:\src\OpenGL\NeHe_Lesson38-master>echo Current time is 24/09/2022:14:54:03,13 
+Current time is 24/09/2022:14:54:03,13
 
-C:\src\OpenGL\NeHe_Lesson38-master>echo Jour : 23 
-Jour : 23
+C:\src\OpenGL\NeHe_Lesson38-master>echo Jour : 24 
+Jour : 24
 
 C:\src\OpenGL\NeHe_Lesson38-master>echo Mois : 09 
 Mois : 09
@@ -1741,20 +1741,20 @@ Mois : 09
 C:\src\OpenGL\NeHe_Lesson38-master>echo Année : 2022 
 Année : 2022
 
-C:\src\OpenGL\NeHe_Lesson38-master>"C:\Program Files\7-Zip\7z" a Lesson38_2022-09-23_src.7z src\*.* res\*.* data\*.* build.cmake\* *.bat *.txt *.html *.md doxygen\* doc\* *.cbp *.workspace -x!*.bak -p"Lesson38_tde" 
+C:\src\OpenGL\NeHe_Lesson38-master>"C:\Program Files\7-Zip\7z" a Lesson38_2022-09-24_src.7z src\*.* res\*.* data\*.* build.cmake\* *.bat *.txt *.html *.md doxygen\* doc\* *.cbp *.workspace -x!*.bak -p"Lesson38_tde" 
 
 7-Zip 22.01 (x64) : Copyright (c) 1999-2022 Igor Pavlov : 2022-07-15
 
 Scanning the drive:
-473 folders, 1831 files, 31773018 bytes (31 MiB)
+476 folders, 1871 files, 32272360 bytes (31 MiB)
 
-Creating archive: Lesson38_2022-09-23_src.7z
+Creating archive: Lesson38_2022-09-24_src.7z
 
-Add new data to archive: 473 folders, 1831 files, 31773018 bytes (31 MiB)
+Add new data to archive: 476 folders, 1871 files, 32272360 bytes (31 MiB)
 
 
-Files read from disk: 1814
-Archive size: 1320304 bytes (1290 KiB)
+Files read from disk: 1854
+Archive size: 1544846 bytes (1509 KiB)
 
 WARNINGS for files:
 
@@ -1762,20 +1762,20 @@ generate_all_with_cmake.txt : Le processus ne peut pas acc‚der au fichier car ce
 ----------------
 WARNING: Cannot open 1 file
 
-C:\src\OpenGL\NeHe_Lesson38-master>"C:\Program Files\7-Zip\7z" a -ttar Lesson38-2022-09_23_all.tar * -x!*.7z x!*.bak -p"Lesson38_tde" 
+C:\src\OpenGL\NeHe_Lesson38-master>"C:\Program Files\7-Zip\7z" a -ttar Lesson38-2022-09_24_all.tar * -x!*.7z x!*.bak -p"Lesson38_tde" 
 
 7-Zip 22.01 (x64) : Copyright (c) 1999-2022 Igor Pavlov : 2022-07-15
 
 Scanning the drive:
-703 folders, 2482 files, 73236158 bytes (70 MiB)
+706 folders, 2521 files, 73709468 bytes (71 MiB)
 
-Creating archive: Lesson38-2022-09_23_all.tar
+Creating archive: Lesson38-2022-09_24_all.tar
 
-Add new data to archive: 703 folders, 2482 files, 73236158 bytes (70 MiB)
+Add new data to archive: 706 folders, 2521 files, 73709468 bytes (71 MiB)
 
 
-Files read from disk: 3184
-Archive size: 75513856 bytes (73 MiB)
+Files read from disk: 3226
+Archive size: 76019712 bytes (73 MiB)
 
 WARNINGS for files:
 
@@ -1783,20 +1783,20 @@ generate_all_with_cmake.txt : Le processus ne peut pas acc‚der au fichier car ce
 ----------------
 WARNING: Cannot open 1 file
 
-C:\src\OpenGL\NeHe_Lesson38-master>"C:\Program Files\7-Zip\7z" a -tgzip Lesson38_2022-09-23_all.tgz *.tar 
+C:\src\OpenGL\NeHe_Lesson38-master>"C:\Program Files\7-Zip\7z" a -tgzip Lesson38_2022-09-24_all.tgz *.tar 
 
 7-Zip 22.01 (x64) : Copyright (c) 1999-2022 Igor Pavlov : 2022-07-15
 
 Scanning the drive:
-1 file, 75513856 bytes (73 MiB)
+1 file, 76019712 bytes (73 MiB)
 
-Creating archive: Lesson38_2022-09-23_all.tgz
+Creating archive: Lesson38_2022-09-24_all.tgz
 
-Add new data to archive: 1 file, 75513856 bytes (73 MiB)
+Add new data to archive: 1 file, 76019712 bytes (73 MiB)
 
 
 Files read from disk: 1
-Archive size: 27871097 bytes (27 MiB)
+Archive size: 28106039 bytes (27 MiB)
 Everything is Ok
 
 C:\src\OpenGL\NeHe_Lesson38-master>del /Q *.tar 
