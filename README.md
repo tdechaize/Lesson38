@@ -3,7 +3,7 @@ Lesson38 OpenGL (from NeHe)
 
 Vous trouverez dans le sommaire ci-dessous les explications vous permettant de regénérer cette appliczation illustrant la possibilité d'utiliser uen fichier 
 de ressources pour référencer plusieurs bitmap qu'il est ensuite possible d'animer par un mapping en OpenGL (issu du site NeHe).
-Le résultat est encore une fois bluffant, car il s'agit d'animer des papillons qui semmblent voleter en tombant de façon très élégante. 
+Le résultat est encore une fois bluffant, car il s'agit d'animer des papillons qui semblent voleter en tombant de façon très élégante. 
 Il me semble que la vitesse de la chute des papillons est proportionnelle à la taille de l'image ainsi restituée. 
 Ce qui rend cette animation très poétique ... pas mal.
 
