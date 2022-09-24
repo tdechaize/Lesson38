@@ -3,8 +3,13 @@ Lesson38 OpenGL (from NeHe)
 
 Vous trouverez dans le sommaire ci-dessous les explications vous permettant de regénérer cette appliczation illustrant la possibilité d'utiliser uen fichier 
 de ressources pour référencer plusieurs bitmap qu'il est ensuite possible d'animer par un mapping en OpenGL (issu du site NeHe).
-le résultat est encore une fois bluffant, car il s'agit d'animer des papillons qui semmblent voleter en tombant de façon très élégante. Il me semble que la 
-vitesse de la chute des papillons est proportionnelle à la taille de l'image ainsi restituée. Ce qui rend cette animation très poétique ... pas mal.
+Le résultat est encore une fois bluffant, car il s'agit d'animer des papillons qui semmblent voleter en tombant de façon très élégante. 
+Il me semble que la vitesse de la chute des papillons est proportionnelle à la taille de l'image ainsi restituée. 
+Ce qui rend cette animation très poétique ... pas mal.
+
+Un "bug" subsiste : il semblerait que le chargement des images bitmap ne fonctionne pas correctement avec le compilateur Open Watcom C/C++.
+En fait, ce bug existe sur TOUTES les lecons OpenGL issues de NeHe avec ce compilateur, cer l'icône "OpenGL" n'est jamais chargée correctement 
+lors de la création des applications par "CreateWindowEx". A investiguer !
 
 ## Table of contents
 
